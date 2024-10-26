@@ -1,4 +1,4 @@
-{
+{ 
   "basics": {
     "name": "Heejun Yoon",
     "label": "",
@@ -7,7 +7,7 @@
     "phone": "",
     "url": "https://heejunyoon.github.io",
     "interest": "Deep Learning | Interested in exploring the application of various fields and understanding its mechanism!",
-    "and...": "I love to play squash, tennis in my freetime",
+    "and...": "I love to play squash, tennis in my freetime 🎾",
     "location": {
       "countryCode": "Republic of Korea",
       "region": "Seoul"
@@ -20,7 +20,7 @@
       }
     ]
   },
-  "Education": [
+  "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
@@ -33,7 +33,7 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "Research Experience": [
+  "experience": [
     {
       "_comment" : "원래는 work였음",
       "name": "Institute for Advanced Study, Princeton University",
@@ -45,20 +45,8 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   
-  "awards": [
+  "publications & conferences": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -67,6 +55,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
+  
   "certificates": [
     {
       "name": "Machine Learning",
@@ -151,7 +140,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -175,18 +164,7 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  
   "projects": [
     {
       "name": "Quantum Computing",
