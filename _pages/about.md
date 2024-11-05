@@ -6,7 +6,7 @@ subtitle: Deep Learning | Interested in exploring the application of various fie
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jeju_five_square.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>In Seoul, 2024</p>
