@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I finally graduate with **magna cum laude** from my undergraduate program, with a major in 
-*Electrical Engineering* and a minor in *Mathematics*! :sparkles: :smile:
+I finally graduate **magna cum laude** from my undergraduate program, majoring in 
+*Electrical Engineering* with a minor in *Mathematics*! :sparkles: :smile:
