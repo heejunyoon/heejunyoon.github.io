@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Hj_CV_2024_11_updated_.pdf
+description: Explore my professional journey, showcasing my academic achievements, research projects, and technical expertise in electrical engineering and AI. You can also download the pdf file with above download button.
 toc:
   sidebar: left
 ---
