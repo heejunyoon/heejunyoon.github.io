@@ -16,6 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hello, I'm Heejun Yoon, an AI researcher and engineer with a passion for using technology to solve real-world challenges. I hold a bachelor's and master's degree in electrical engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).
+
 My research focuses on applying deep learning to impactful projects, blending innovation with purpose. From developing advanced models for real-time semiconductor inspection to exploring satellite imagery analysis for environmental monitoring, I am driven by the potential of AI to make a meaningful difference. I strive to push the boundaries of what's possible in technology, ensuring that progress aligns with sustainability and social good.
+
 My journey began with a fascination for optimizing complex systems to improve human life. During my master’s research, I specialized in machine vision, building efficient, adaptable deep learning architectures for semiconductor products inspection. As an undergraduate researcher, I delved into FMCW radar signal processing, exploring people counting, motion recognition with 3D point clouds, and vital sign monitoring.
+
 Thank you for visiting my site! Here, you'll find insights into my research, projects, and the vision that drives me toward creating a better, more connected world through technology.
