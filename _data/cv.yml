@@ -3,31 +3,36 @@
   contents:
     - name: Full Name
       value: Heejun Yoon
-    - name: Date of Birth
-      value: 8th August 1998
     - name: Languages
       value: English, Korean
+    - name: E-mail
+      value: mailto:hjyoon9808@gmail.com
+    - name: Research Interest
+      value: Deep Learning | AI-Driven Conservation | Model Adaptation
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science
+    - title: M.S. in Electronics and Electrical Engineering
       institution: Ewha Womans University, Seoul, Korea
-      year: "2019 - 2023"
+      year: "Mar 2023 - Aug 2024"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Advisor: Prof. Jeongtae Kim
+        - GPA : 4.0/4.0 (4.3/4.3)
+        - Thesis title: A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Developed lightweight twin network-based IC-substrates defect detection system that is robust to mis-registration
+and characteristic difference
 
+    - title: B.S. in Electronics and Electrical Engineering
+      institution: Ewha Womans University, Seoul, Korea
+      year: "Mar 2019 - Feb 2023"
+      description:
+        - Minor : Mathematics
+        - Major & Minor GPA: 3.79/4.0 (3.90/4.3)
+- title: Publication
+  type: 
+  
 - title: Experience
   type: time_table
   contents:
@@ -94,4 +99,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Squash, Tennis🎾, and Swimming🏊
