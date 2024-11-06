@@ -142,7 +142,7 @@
   "skills": [
     {
       "name": "Computer Languages",
-      "icon": "class="fa-solid fa-laptop-code",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": [
         "(Proficient) Python, MATLAB, LATEX",
         "(Working) C/C++, Assembly, html",
@@ -150,7 +150,7 @@
     }
     {
       "name": "Libraries",
-      "icon": "class="fa-solid fa-robot",
+      "icon": "fa-solid fa-robot",
       "keywords": [
         "(Deep Learning & vision) Pytorch, TensorFlow, OpenCV, Numpy, matplotlib...",
         "(Else) BeautifulSoup, NLTK, and more...",
