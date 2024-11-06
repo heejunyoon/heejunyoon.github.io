@@ -1,16 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Semiconductor Products Inspection
+description: Thesis for Master's degree
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I developed lightweight twin network-based IC-substrates defect detection system that is robust to mis-registration and characteristic difference.
+- Explored the use of knowledge distillation techniques to compress the models with high accuracy, and also vision transformer
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
