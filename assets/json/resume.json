@@ -147,7 +147,7 @@
         "(Proficient) Python, MATLAB, LATEX",
         "(Working) C/C++, Assembly, html",
       ]
-    }
+    },
     {
       "name": "Libraries",
       "icon": "fa-solid fa-robot",
