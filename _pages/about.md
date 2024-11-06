@@ -31,5 +31,5 @@ Whether it's solving complex problems, exploring cutting-edge technologies, or w
 ## My Mission 🌱
 Through my work, I aim to make complex data accessible and actionable and push the boundaries of ethical AI practices. I firmly believe that technology should be developed responsibly and used for the greater good.
 
-If you're curious about my research, upcoming projects, or just want to connect, feel free to contact via [e-mail](hjyoon9808@gmail.com) or [LinkdIn](https://www.linkedin.com/in/heejun-yoon/).
+If you're curious about my research, upcoming projects, or just want to connect, feel free to contact via [e-mail](hjyoon9808@gmail.com) or [LinkdIn](https://www.linkedin.com/in/heejunyoon98/).
 Looking forward to sharing my work and insights with you!
