@@ -1,7 +1,9 @@
 ---
-title: "Master's Thesis: Deep Learning-Based Semiconductor Product Inspection"
+layout: page
+title: "Deep Learning-Based Semiconductor Product Inspection"
 date: 2024-06-01
 category: research
+importance: 1
 img: assets/img/thumb_thesis.png
 related_publications: true
 ---
@@ -20,18 +22,15 @@ For my Master’s degree thesis, I developed a **lightweight twin network-based 
 
 ## Key Contributions
 
-- Developed a **Siamese Network**-based architecture optimized for defect detection.
-- Enhanced performance using **Change Detection**, **Attention Mechanisms**, and **Knowledge Distillation**.
-- Experimented with **Vision Transformer (ViT)** for improved feature extraction and robustness.
+- Developed a **Siamese Network**-based architecture optimized for defect detection in repetitive patterns.
+- Enhanced performance with new
 
 ## Technologies and Tools
 
 - **Frameworks**: TensorFlow, PyTorch
 - **Key Techniques**:
-  - Siamese Networks
+  - Siamese Networks (also known as twin network)
   - Change Detection
-  - Vision Transformers (ViT)
-  - Knowledge Distillation
   - Attention Mechanisms
 - **Hardware**: NVIDIA GPUs for accelerated training and inference
 
@@ -39,6 +38,10 @@ For my Master’s degree thesis, I developed a **lightweight twin network-based 
 
 - Achieved state-of-the-art accuracy for defect detection in IC substrates.
 - Improved real-time inspection performance compared to traditional methods.
+
+## Additionally...
+
+- I explored many techniques such as Knowledge Distillation, Vition Transformer (ViT), and while experiments, but there was limitation.
 
 ## Advisor
 
@@ -51,5 +54,3 @@ Prof. Jeongtae Kim – Ewha Womans University
 ## Related Publications
 
 1. H. Yoon, “A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates,” **M.S. thesis**, Ewha Womans University, 2024.
-
----
