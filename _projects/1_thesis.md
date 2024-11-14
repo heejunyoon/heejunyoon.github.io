@@ -4,6 +4,7 @@ title: "Deep Learning-Based Semiconductor Product Inspection"
 date: 2024-06-01
 category: research
 importance: 1
+permalink: /projects/thesis/
 img: assets/img/thumb_thesis.png
 related_publications: true
 ---
@@ -41,7 +42,8 @@ For my Master’s degree thesis, I developed a **lightweight twin network-based 
 
 ## Additionally...
 
-- I explored many techniques such as Knowledge Distillation, Vition Transformer (ViT), and while experiments, but there was limitation.
+- I explored various techniques, including Knowledge Distillation and Vision Transformers (ViT). However, during the experiments, I encountered certain limitations.
+- Perhaps someday, I'll have the opportunity to delve deeper into these techniques for the task.
 
 ## Advisor
 
@@ -49,7 +51,7 @@ Prof. Jeongtae Kim – Ewha Womans University
 
 ## Thesis Link
 
-[Download Thesis PDF](assets/pdf/HJYoon_thesis_published.pdf)
+[Download Thesis PDF](https://heejunyoon.github.io/assets/pdf/HJYoon_thesis_published.pdf)
 
 ## Related Publications
 
