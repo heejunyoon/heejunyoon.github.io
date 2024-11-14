@@ -1,4 +1,4 @@
-{ 
+{
   "basics": {
     "name": "Heejun Yoon",
     "label": "",
@@ -63,7 +63,7 @@
   ],
   "work": [
     {
-      "_comment" : "원래는 work였음",
+      "_comment": "원래는 work였음",
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
@@ -73,18 +73,12 @@
       "highlights": ["Relativity"]
     }
   ],
-  
+
   "projects": [
-     {
+    {
       "name": "Deep Learning-Based Semiconductor Product Inspection",
       "summary": "Thesis for Master's degree under Prof. Jeongtae Kim. Developed a lightweight twin network-based defect detection system for IC substrates, designed to be robust against mis-registration and characteristic differences.",
-      "highlights": [
-        "Siamese Network",
-        "Change Detection",
-        "Attention",
-        "Knowledge Distillation",
-        "Vision Transformer"
-      ],
+      "highlights": ["Siamese Network", "Change Detection", "Attention", "Knowledge Distillation", "Vision Transformer"],
       "startDate": "2023-01",
       "endDate": "2024-06"
     },
@@ -104,12 +98,7 @@
     {
       "name": "3D Beamforming-Based Estimation of Breathing and Heart Rates",
       "summary": "Investigated an approach for estimating breathing and heartbeat rates utilizing 3D beamforming-based frequency modulated continuous wave (FMCW) radar signals under Prof. Jeongtae Kim. Demonstrated superior performance compared to conventional 2D beamforming methods.",
-      "highlights": [
-        "Radar Signal Processing",
-        "Beamforming",
-        "Signal Analysis",
-        "Experimental Design and Execution"
-      ],
+      "highlights": ["Radar Signal Processing", "Beamforming", "Signal Analysis", "Experimental Design and Execution"],
       "startDate": "2022-09",
       "endDate": "2022-11"
     },
@@ -135,26 +124,20 @@
       ],
       "startDate": "2019",
       "endDate": "2022",
-      "url":"https://youtu.be/XkUS9vn9fcI?t=108"
+      "url": "https://youtu.be/XkUS9vn9fcI?t=108"
     }
   ],
-  
+
   "skills": [
     {
       "name": "Computer Languages",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "(Proficient) Python, MATLAB, LATEX",
-        "(Working) C/C++, Assembly, html",
-      ]
+      "keywords": ["(Proficient) Python, MATLAB, LATEX", "(Working) C/C++, Assembly, html"]
     },
     {
       "name": "Libraries",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "(Deep Learning & vision) Pytorch, TensorFlow, OpenCV, Numpy, matplotlib...",
-        "(Else) BeautifulSoup, NLTK, and more...",
-      ]
+      "keywords": ["(Deep Learning & vision) Pytorch, TensorFlow, OpenCV, Numpy, matplotlib...", "(Else) BeautifulSoup, NLTK, and more..."]
     }
   ],
   "languages": [

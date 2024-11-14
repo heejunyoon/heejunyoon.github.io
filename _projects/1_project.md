@@ -9,8 +9,8 @@ related_publications: true
 ---
 
 I developed lightweight twin network-based IC-substrates defect detection system that is robust to mis-registration and characteristic difference.
-- Explored the use of knowledge distillation techniques to compress the models with high accuracy, and also vision transformer
 
+- Explored the use of knowledge distillation techniques to compress the models with high accuracy, and also vision transformer
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

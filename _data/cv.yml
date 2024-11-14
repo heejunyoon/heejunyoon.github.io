@@ -18,7 +18,7 @@
       year: "Mar 2023 - Aug 2024"
       description:
         - Advisor: Prof. Jeongtae Kim
-        - GPA : 4.0/4.0 (4.3/4.3)
+        - GPA: 4.0/4.0 (4.3/4.3)
         - Thesis title: A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates
           contents: Developed lightweight twin network-based IC-substrates defect detection system that is robust to mis-registration and characteristic difference
 
@@ -26,9 +26,9 @@
       institution: Ewha Womans University, Seoul, Korea
       year: "Mar 2019 - Feb 2023"
       description:
-        - Minor : Mathematics
+        - Minor: Mathematics
         - Major & Minor GPA: 3.79/4.0 (3.90/4.3)
-  
+
 - title: Experience
   type: time_table
   contents:

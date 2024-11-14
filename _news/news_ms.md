@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I’m thrilled to announce that I’ve officially graduated with my **Master’s degree** in *Electronics and Electrical Engineering*! 🎓✨ Achieved a perfect GPA (4.0/4.0) and couldn’t be more grateful for this incredible journey! 🙌
+I’m thrilled to announce that I’ve officially graduated with my **Master’s degree** in _Electronics and Electrical Engineering_! 🎓✨ Achieved a perfect GPA (4.0/4.0) and couldn’t be more grateful for this incredible journey! 🙌
 You can check my thesis on Publication section!
