@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Deep Learning | AI-Driven Conservation
+subtitle: Deep Learning | AI-Driven Innovator for Conservation and Social Solutions
 
 profile:
   align: right
