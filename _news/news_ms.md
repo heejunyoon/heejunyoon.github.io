@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 I’m thrilled to announce that I’ve officially graduated with my **Master’s degree** in _Electronics and Electrical Engineering_! 🎓✨ Achieved a perfect GPA (4.0/4.0) and couldn’t be more grateful for this incredible journey! 🙌
-You can check my thesis on Publication section!
+You can check my thesis on [Publication](https://heejunyoon.github.io/publications/) section!

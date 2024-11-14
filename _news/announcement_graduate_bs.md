@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 I finally graduate **magna cum laude** from my undergraduate program, majoring in
-_Electrical Engineering_ with a minor in _Mathematics_! :sparkles: :smile:
+_Electrical Engineering_ with a minor in _Mathematics_! 🧑‍🎓 :smile:

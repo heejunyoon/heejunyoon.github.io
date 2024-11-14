@@ -3,64 +3,6 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
-}
-
 
 @thesis{thesis,
     author = {Heejun Yoon},
@@ -69,6 +11,7 @@
     year = {2024},
     url={https://www.riss.kr/link?id=T17053834},
     slides={HJYoon_thesis_ppt_v3.pdf},
+    preview={thumb_thesis.png},
     abstract={This thesis explores a novel approach to inspecting IC substrates by integrating twin and single network architectures for fast and accurate defect detection. For inspecting IC substrates, the repetitive nature of the substrates allows comparison-based inspection approaches that detect changed regions between test and reference images. This research proposes a hybrid approach of Combined Twin and Single Network (abbreviated by C-TSNet). We incorporate a single network that is not affected by misalignments and color variations with a twin network, the proposed network achieves robustness to mis-registration while maintaining low computational latency. Additionally, we introduce CC-TSNet, which is extended version of C-TSNet by adding a channel co-attention module to further improve robustness against characteristic differences.}
 }
 
@@ -81,7 +24,8 @@
   doi={10.1109/UR57808.2023.10202355},
   poster={UR2023_poster_final.pdf},
   url={https://ieeexplore.ieee.org/document/10202355},
-  abstract={}
+  abstract={The global personal mobility market has been expanding rapidly due to its convenience. However, the rising number of accidents involving personal mobility devices, including falls, collisions, and incidents with moving vehicles or objects, has become a significant concern. In this paper, we propose a deep learning-based safe driving system that integrates both user and road images to address these safety issues. Our system leverages CNN-based models to simultaneously perform the following tasks: 1) detecting if the user is wearing a helmet, 2) ensuring the user is looking ahead, 3) identifying whether the scooter is being ridden on the sidewalk, and 4) recognizing proximity to intersections. These tasks operate in parallel to provide a comprehensive assessment of the driving environment. The system determines the scooter’s final speed by selecting the minimum speed value from all tasks to ensure maximum safety. Additionally, we utilize knowledge distillation techniques to compress the models, enabling real-time inference on edge devices. This approach delivers a fast, efficient, and highly accurate system, specifically tailored to the needs of personal mobility users.},
+  preview={thumb_ur_demo.gif}
 }
 
 @inproceedings{2023IPIU,
@@ -90,8 +34,10 @@
   annotation={† Corresponding author},
   booktitle={2023 Image Processing and Image Understanding(IPIU)},
   pdf={IPIU2023_HJYoon_final_paper.pdf},
+  poster={IPIU2023_poster.pdf},
   year={2023},
-  abstract={}
+  abstract={In this paper, we generated three-dimensional point clouds based on Frequency Modulated Continuous Wave (FMCW) radar and performed object motion classification using Support Tensor Machine (STM). 3D Capon Beamforming was applied to the data acquired by the FMCW radar to generate a three-dimensional point cloud, which was then subsampled in half and converted to one-dimensional data to reduce computation. STM was applied to perform motion classification, and the motion was classified with 82% accuracy.},
+  preview={thumb_IPIU.png}
 }
 
 @inproceedings{2022IEIE,
@@ -101,10 +47,11 @@
   booktitle={Fall Annual Conference of The Institute of Electronics and Information Engineers (IEIE)},
   year={2022},
   publisher={IEIE},
+  pdf={IEIE_paper.pdf},
   slides={presentation_for_IEIEpaper_competition.pdf},
   url={https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11195420},
-  abstract={},
-  preview={brownian-motion.gif}
+  abstract={The rapid growth of electric scooter-sharing services has brought personal mobility devices into the spotlight. However, this rise in popularity has been accompanied by increasing public concern over e-scooter accidents. To address these safety challenges, we propose a deep learning-based safe driving system for electric scooters that analyzes both user and road images. Our framework employs CNN-based models to determine whether the user is wearing a helmet or maintaining proper forward vision by analyzing user images. Simultaneously, the system verifies if the scooter is on a designated road and estimates the distance between the user and the nearest pedestrian from road images. Finally, it calculates the scooter’s optimal velocity using the outputs from these models. By leveraging a fast and precise deep learning approach, our system enhances real-time decision-making and provides a high level of confidence in detecting and mitigating multiple hazards simultaneously.},
+  preview={thumb_IEIE.png}
 }
 
 
