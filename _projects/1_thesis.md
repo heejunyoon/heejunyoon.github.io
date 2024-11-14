@@ -42,11 +42,11 @@ For my Master’s degree thesis, I developed a **lightweight twin network-based 
 
 ## Advisor
 
-[Prof. Jeongtae Kim](https://example.com) – Ewha Womans University
+Prof. Jeongtae Kim – Ewha Womans University
 
 ## Thesis Link
 
-[Download Thesis PDF](assets/pdf/masters-thesis.pdf)
+[Download Thesis PDF](assets/pdf/HJYoon_thesis_published.pdf)
 
 ## Related Publications
 
