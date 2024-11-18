@@ -10,6 +10,9 @@ category: fun
 
 This project focused on building a custom **Dance Dance Revolution (DDR)** pad using **Arduino Leonardo**. The pad is designed to function as a controller for DDR gameplay by simulating keyboard inputs.
 
+This project originally drew inspiration from the _DIY Dance Dance Revolution tutorial_ by Mel Huang, detailed in their Medium article.
+https://medium.com/@melhuang_/building-a-diy-dance-dance-revolution-e136265bbbfc
+
 ## Key Contributions
 
 - **Hardware Design**:
@@ -52,3 +55,12 @@ The project highlights a blend of hardware engineering and programming to create
 </video>
 
 -- **presentation**
+
+## Project Documentation
+
+You can view the documentation below or [download the PDF](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf).
+
+<iframe src="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it:
+    <a href="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf">Download PDF</a>.
+</iframe>
