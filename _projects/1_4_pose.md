@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Anomaly Detection Using 3D Point Clouds from FMCW Radar"
+title: "Anomaly Detection from 3D Point Clouds"
 date: 2022-09-01
+description: "Fall detection and anomaly detection using RNN and LSTM models applied to FMCW radar-generated 3D point clouds."
 category: research
 importance: 4
 img: assets/img/publication_preview/thumb_IPIU.gif

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Estimation of Breathing and Heart Rates"
+title: "Vital Sign Monitoring with FMCW Radar"
+description: "A novel method for estimating breathing and heart rates using 3D beamforming radar signals."
 date: 2022-11-01
 category: research
-importance: 2
+importance: 3
 img: assets/img/thumb_radarconf.png
 related_publications: false
 ---

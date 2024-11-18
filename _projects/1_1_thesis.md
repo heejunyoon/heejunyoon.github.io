@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Deep Learning-Based Semiconductor Product Inspection"
-description: "for master's degree thesis"
+description: "A lightweight twin network for real-time defect detection in semiconductor IC substrates."
 date: 2024-06-01
 category: research
 importance: 1
@@ -9,8 +9,6 @@ img: assets/img/thumb_thesis.png
 related_publications: true
 bibliography: [thesis]
 ---
-
-# Deep Learning-Based Semiconductor Product Inspection
 
 ## Overview
 
@@ -62,3 +60,5 @@ Prof. Jeongtae Kim – Ewha Womans University
 ## Related Publications
 
 1. H. Yoon, “A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates,” **M.S. thesis**, Ewha Womans University, 2024.
+
+Here is a reference to a paper {% cite thesis %}
