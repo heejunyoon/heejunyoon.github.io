@@ -5,7 +5,7 @@ description: "A lightweight twin network for real-time defect detection in semic
 date: 2024-06-01
 category: research
 importance: 1
-img: assets/img/thumb_thesis.png
+img: assets/img/thumb_thesis.PNG
 related_publications: true
 bibliography: [thesis]
 ---

@@ -46,11 +46,11 @@ The project highlights a blend of hardware engineering and programming to create
 -- **Demo Video**
 <video width="640" height="360" controls>
 
-  <source src="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/video/ddr_test.mp4" type="video/mp4">
+  <source src="/assets/video/ddr_test.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video width="640" height="360" controls>
-  <source src="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/video/ddr_test2.mp4" type="video/mp4">
+  <source src="/assets/video/ddr_test2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -60,7 +60,9 @@ The project highlights a blend of hardware engineering and programming to create
 
 You can view the documentation below or [download the PDF](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf).
 
-<iframe src="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf" width="100%" height="600px">
+<iframe src="/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
-    <a href="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf">Download PDF</a>.
+    <a href="/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf">Download PDF</a>.
 </iframe>
+
+<iframe src="https://drive.google.com/file/d/1tkShXQXaufW7aBE3u6YjHifgKB05DoqL/preview" width="640" height="480"></iframe>
