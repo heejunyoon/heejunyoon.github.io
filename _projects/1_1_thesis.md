@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Deep Learning-Based Semiconductor Product Inspection"
+description: "for master's degree thesis"
 date: 2024-06-01
 category: research
 importance: 1
