@@ -6,6 +6,7 @@ category: research
 importance: 1
 img: assets/img/thumb_thesis.png
 related_publications: true
+bibliography: [thesis]
 ---
 
 # Deep Learning-Based Semiconductor Product Inspection
