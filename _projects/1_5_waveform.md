@@ -1,13 +1,19 @@
 ---
 layout: page
-title: "Deep Learning-Based Semiconductor Product Inspection"
-date: 2024-06-01
+title: "
+BPM Detection from Breathing Waveform"
+date: 2020-07-01
 category: research
-importance: 1
-permalink: /projects/thesis/
+importance: 5
 img: assets/img/thumb_thesis.png
 related_publications: true
 ---
+
+- Developed a system for BPM detection from breathing waveforms using FMCW Radar
+- Generated waveforms using FFT and Capon Beamforming techniques
+- Trained a CNN model to predict BPM from the generated waveforms
+- Languages/Tools: Python, TensorFlow, MATLAB
+-
 
 # Deep Learning-Based Semiconductor Product Inspection
 
