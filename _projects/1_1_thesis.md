@@ -12,7 +12,7 @@ bibliography: [thesis]
 
 ## Overview
 
-For my Master’s degree thesis, I developed a **lightweight twin network-based defect detection system** for **IC substrates**. This system is designed to be robust against mis-registration and characteristic differences, ensuring high accuracy and reliability in real-time semiconductor inspections.
+For my Master’s degree thesis {% cite thesis %}, I developed a **lightweight twin network-based defect detection system** for **IC substrates**. This system is designed to be robust against mis-registration and characteristic differences, ensuring high accuracy and reliability in real-time semiconductor inspections.
 
 ## Objectives
 
@@ -48,17 +48,3 @@ For my Master’s degree thesis, I developed a **lightweight twin network-based 
 - _Exploration of advanced techniques_: Beyond the main contributions, I explored various advanced deep learning methods, including Knowledge Distillation and Vision Transformers (ViT). While these approaches showed promise, they revealed limitations when applied to the specific challenges of IC substrate inspection.
 - _Efforts to improve single network performance for non-repetitive patterns_: Recognizing the need for a solution in cases where products lack repetitive patterns, I focused on enhancing single network performance using ViT. Although the experiments did not yield the desired results, they offered valuable insights into the difficulties of defect detection in non-repetitive contexts.
 - _Future potential_: These explorations highlight opportunities for further research. Perhaps someday, I will revisit these techniques to develop more robust solutions for diverse inspection scenarios.
-
-## Advisor
-
-Prof. Jeongtae Kim – Ewha Womans University
-
-## Thesis Link
-
-[Download Thesis PDF](https://heejunyoon.github.io/assets/pdf/HJYoon_thesis_published.pdf)
-
-## Related Publications
-
-1. H. Yoon, “A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates,” **M.S. thesis**, Ewha Womans University, 2024.
-
-Here is a reference to a paper {% cite thesis %}

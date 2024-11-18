@@ -10,8 +10,7 @@ category: fun
 
 This project focused on building a custom **Dance Dance Revolution (DDR)** pad using **Arduino Leonardo**. The pad is designed to function as a controller for DDR gameplay by simulating keyboard inputs.
 
-This project originally drew inspiration from the _DIY Dance Dance Revolution tutorial_ by Mel Huang, detailed in their Medium article.
-https://medium.com/@melhuang_/building-a-diy-dance-dance-revolution-e136265bbbfc
+This project originally drew inspiration from the _DIY Dance Dance Revolution tutorial_ by Mel Huang, detailed in [the Medium article](https://medium.com/@melhuang_/building-a-diy-dance-dance-revolution-e136265bbbfc).
 
 ## Key Contributions
 
@@ -34,8 +33,8 @@ https://medium.com/@melhuang_/building-a-diy-dance-dance-revolution-e136265bbbfc
 
 ## Results
 
-- Successfully created a functional DDR pad that responds to gameplay inputs.
-- Demonstrated the project via an operating video showcasing its real-time performance.
+- Developed two functional DDR pads designed for a two-player versus game mode.
+- Showcased the project in the Engineering Building during Fall 2019, where professors and students enthusiastically participated and enjoyed playing during breaks🕺🪩.
 
 ## Final Thoughts
 
@@ -55,14 +54,9 @@ The project highlights a blend of hardware engineering and programming to create
 </video>
 
 -- **presentation**
-
-## Project Documentation
-
 You can view the documentation below or [download the PDF](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf).
 
 <iframe src="/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf">Download PDF</a>.
 </iframe>
-
-<iframe src="https://drive.google.com/file/d/1tkShXQXaufW7aBE3u6YjHifgKB05DoqL/preview" width="640" height="480"></iframe>
