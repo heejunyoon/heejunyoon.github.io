@@ -43,11 +43,11 @@ The project highlights a blend of hardware engineering and programming to create
 -- **Demo Video**
 <video width="640" height="360" controls>
 
-  <source src="{{ site.baseurl }}/assets/video/ddr_test.mp4" type="video/mp4">
+  <source src="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/video/ddr_test.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video width="640" height="360" controls>
-  <source src="{{ site.baseurl }}/assets/video/ddr_test2.mp4" type="video/mp4">
+  <source src="https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/video/ddr_test2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
