@@ -34,7 +34,7 @@ This project originally drew inspiration from the _DIY Dance Dance Revolution tu
 ## Results
 
 - Developed two functional DDR pads designed for a two-player versus game mode.
-- Showcased the project in the Engineering Building during Fall 2019, where professors and students enthusiastically participated and enjoyed playing during breaks🕺🪩.
+- Showcased the project in the Engineering Building during Fall 2019, where professors and students enthusiastically participated and enjoyed playing during breaks🪩🕺.
 
 ## Final Thoughts
 
