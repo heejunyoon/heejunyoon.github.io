@@ -29,3 +29,48 @@ This project was developed as part of the **2020 Club Exhibition Project**. It i
 ## Results
 
 - Successfully showcased the project at the **2020 Club Exhibition**, demonstrating interactive LED animations synchronized with the clock’s timekeeping functionality.
+
+## Additionally...
+
+- Memories of never-ending soldering...
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/DDR_while2.jpg" title="while image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/DDR_while1.jpg" title="while image" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/DDR_fail.jpg" title="wrong image" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;" %}
+    </div>
+</div>
+<div class="caption">
+    I worked overnight, and something went wrong 🤦
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <video width="100%" controls>
+      <source src="/assets/video/clock_mid.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="text-center">Receive</p>
+  </div>  
+  <div class="col-lg-6">
+    <video width="100%" controls>
+      <source src="/assets/video/clock_end_back.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p class="text-center">Transmit</p>
+  </div>
+</div>
+<div class="caption">
+    I started all over again, and finally it worked 😇
+</div>
+
+- You can check demo video:
+<div class="row justify-content-center">
+  <div class="col-lg-8">
+    <iframe width="100%" height="400" src="https://youtu.be/XkUS9vn9fcI?t=108" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>

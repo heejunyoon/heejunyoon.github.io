@@ -2,8 +2,8 @@
 layout: page
 title: "Advocating for Systemic Reform: Honoring Fire Captain Kang"
 description: "A campaign to honor Captain Kang and advocate for systemic changes in firefighter safety and recognition"
-img: assets/img/proj/petition.jpg
-importance: 3
+img: assets/img/proj/petition5_stk.jpg
+importance: 2
 category: community
 date: 2019-05-01
 ---
@@ -58,3 +58,17 @@ Our campaign gained significant attention, being featured in national news outle
 This experience profoundly shaped my understanding of the power of **collective action** and **systemic change**. I learned the importance of amplifying marginalized voices and working collaboratively to address structural inequities.
 
 As a researcher, this campaign reinforced my belief in leveraging technology for social good. Whether developing **AI solutions for environmental monitoring** or creating tools to enhance disaster response, I aim to contribute to a more just and sustainable world. This campaign exemplified how technology, guided by empathy and a commitment to social good, can drive meaningful change.
+
+## Photos
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/petition7_stk.jpg" title="team image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/petition2.jpg" title="badge image" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;" %}
+    </div>
+</div>
+<div class="caption">
+    My beloved team and photo when I visited the congress for delivering petition 🏃
+</div>

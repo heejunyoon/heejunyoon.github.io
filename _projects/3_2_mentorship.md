@@ -2,7 +2,7 @@
 layout: page
 title: The Transformative Power of Mentorship and Teaching
 description: "A journey of growth through teaching, mentoring, and leadership"
-img: /assets/img/hippo.png
+img: /assets/img/thumb_homecoming.gif
 importance: 2
 category: community
 ---
@@ -30,6 +30,20 @@ It was fascinating to watch them move from struggling with unfamiliar algorithms
 Being the **president of our scientific research club** was another chapter in this journey. Our club focused on **robotics**, **deep learning**, and **programming**—all topics close to my heart. Organizing project schedules, providing feedback, and resolving technical challenges became part of my routine.
 
 I also enjoyed designing and delivering lectures. **Machine learning**, **Arduino coding**, and even something as specific as **Bluetooth communication** became topics I couldn’t wait to teach. Summers and falls were particularly vibrant, filled with **exhibitions** and collaborative projects. The energy in the club was infectious, and I was proud to be at the helm.
+
+While I was disappointed that I didn't get to see many members face-to-face because I was chairman during the pandemic, I was able to learn a lot from my amazing executive team and organizing several virtual activities.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/EEI_3_stk.jpg" title="team image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/proj/EEI_6_stk.jpg" title="badge image" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;" %}
+    </div>
+</div>
+<div class="caption">
+    My beloved team 💞
+</div>
 
 ---
 

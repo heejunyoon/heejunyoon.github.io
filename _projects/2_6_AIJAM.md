@@ -2,7 +2,7 @@
 layout: page
 title: "AI-JAM Korea 2020: NLP-Based YouTube Comment Analysis"
 description: Awarded Gold Medal for developing an NLP model to cluster real-world YouTube comments
-img: assets/img/hippo.jpg
+img: assets/img/proj/AIJAM_3.png
 importance: 6
 category: fun
 date: 2020-08-01
@@ -39,3 +39,21 @@ The complete project and its codebase are available on [GitHub](https://github.c
 ## Results
 
 - **Gold Medal**: Awarded in the **AI-JAM Korea 2020 Competition** for outstanding project execution and innovation in NLP-based YouTube comment analysis.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj/AIJAM_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The result of embedding the nouns in a sentence into a 300-dimensional vector
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj/AIJAM_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Final result with dimensionality reduction using TSNE and visualization using Bokeh module
+</div>

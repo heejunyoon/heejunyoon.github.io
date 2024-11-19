@@ -16,10 +16,20 @@
       "url": "https://www.ewha.ac.kr/ewhaen/index.do",
       "area": "Electrical Engineering",
       "studyType": "M.S.",
-      "startDate": "2023-03-01",
-      "endDate": "2024-08-31",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "4.0/4.0",
+      "courses": ["Deep Learning", "Signal Processing", "Big Data", "Cyber-Physical Systems"]
+    },
+    {
+      "institution": "Ewha Womans University",
+      "location": "Seoul, Republic of Korea",
+      "area": "Electronics and Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "2023",
+      "score": "3.79/4.0",
+      "courses": ["Linear Algebra", "Embedded Systems", "Signal Processing", "Communication Networks"]
     }
   ],
   "publications": [
@@ -54,23 +64,54 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "work": [
+      "title": "Full-tuition Scholarship based on merit",
+      "date": "2023-03-01",
+      "awarder": "Ewha Womans University",
+      "summary": "Awarded a full-tuition scholarship for academic excellence."
+    },
     {
-      "_comment": "원래는 work였음",
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "title": "BK21 Overseas Training Scholarship",
+      "date": "2023-06-01",
+      "awarder": "Ewha Womans University, BK21 Plus",
+      "summary": "Received scholarship support for overseas training and research."
+    },
+    {
+      "title": "Kwanjeong Scholarship",
+      "date": "2021-03-01",
+      "awarder": "Kwanjeong Educational Foundation",
+      "summary": "Awarded as a promising student and received $18,000 over four semesters."
+    },
+    {
+      "title": "Grand Prize in Undergraduate Thesis Competition",
+      "date": "2022-11-01",
+      "awarder": "IEIE Autumn Annual Conference",
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11195420",
+      "summary": "Awarded for the Undergraduate Thesis Competition. (📄 Paper link included)."
+    },
+    {
+      "title": "Gold Prize in Engineering Capstone Design Contest",
+      "date": "2022-01-01",
+      "awarder": "Ewha Womans University",
+      "summary": "Recognized for excellence in capstone design for innovative solutions."
+    },
+    {
+      "title": "Dean’s List",
+      "date": "2019-03-01",
+      "awarder": "Ewha Womans University",
+      "summary": "Maintained a top GPA and listed on the Dean’s list for multiple semesters."
+    },
+    {
+      "title": "Engineering Leadership Scholarship",
+      "date": "2020-01-01",
+      "awarder": "Ewha Womans University",
+      "summary": "Awarded for leadership in engineering-related projects and activities."
+    },
+    {
+      "title": "Gold Medal in AI-JAM Korea 2020",
+      "date": "2020-11-01",
+      "awarder": "Hyundai Motors",
+      "url": "https://github.com/ottl-seo/AI-JAM_KOREA_2020",
+      "summary": "Developed a clustering model utilizing NLP techniques to automatically cluster YouTube Q&A comments. Delivered the final presentation."
     }
   ],
 
