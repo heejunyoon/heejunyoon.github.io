@@ -11,6 +11,8 @@ category: fun
 
 This project was developed as part of the **2020 Club Exhibition Project**. It involved designing and constructing a custom **clock featuring LED animations**, combining both hardware and software elements.
 
+This project was based on the [instructables project](https://www.instructables.com/RGB-HexMatrix-IOT-Clock/)
+
 ## Key Contributions
 
 - **Hardware Design**:
@@ -34,13 +36,13 @@ This project was developed as part of the **2020 Club Exhibition Project**. It i
 
 - Memories of never-ending soldering...
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proj/DDR_while2.jpg" title="while image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proj/DDR_while1.jpg" title="while image" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proj/DDR_fail.jpg" title="wrong image" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;" %}
     </div>
 </div>
@@ -69,8 +71,7 @@ This project was developed as part of the **2020 Club Exhibition Project**. It i
 </div>
 
 - You can check demo video:
-<div class="row justify-content-center">
-  <div class="col-lg-8">
-    <iframe width="100%" height="400" src="https://youtu.be/XkUS9vn9fcI?t=108" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
+<video width="640" height="360" controls>
+  <source src="/assets/video/clock_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

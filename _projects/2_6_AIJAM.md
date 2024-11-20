@@ -34,7 +34,7 @@ This project was part of the **AI-JAM Korea 2020 Competition**, where we develop
 
 ## GitHub Repository
 
-The complete project and its codebase are available on [GitHub](https://github.com/ottlseo/AI-JAM_KOREA_2020).
+The complete project and its codebase are available on <a href="https://github.com/ottlseo/AI-JAM_KOREA_2020" target="_blank"><i class="fab fa-github"></i> **GitHub**</a>.
 
 ## Results
 
