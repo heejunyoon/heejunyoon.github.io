@@ -24,10 +24,10 @@ For my Master’s degree thesis {% cite thesis %}, I developed a **lightweight t
 
 <div class="row justify-content-center">
   <div class="col-auto">
-    {% include figure.liquid path="assets/img/publication_preview/thesis_CCTSNet.png" title="Image 1" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/publication_preview/thesis_CCTSNet.png" title="Image 1" class="img-fluid" %}
   </div>
   <div class="col-auto">
-    {% include figure.liquid path="assets/img/publication_preview/thesis_coatt.png" title="Image 2" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/publication_preview/thesis_coatt.png" title="Image 2" class="img-fluid" %}
   </div>
 </div>
 <div class="caption">
@@ -42,11 +42,11 @@ For my Master’s degree thesis {% cite thesis %}, I developed a **lightweight t
 - **Achieved real-time performance with lightweight computational requirements**: Designed the architecture to be efficient for deployment in industrial settings, ensuring fast and accurate defect detection.
 
 <div class="row justify-content-center">
-  <div class="col-auto">
+  <div class="col-md-5">
     {% include figure.liquid path="assets/img/publication_preview/thesis_rep.png" title="Image 1" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-auto">
-    {% include figure.liquid path="assets/img/prpublication_previewoj/thesis_pseudo.png" title="Image 2" class="img-fluid rounded z-depth-1" %}
+  <div class="col-md-5">
+    {% include figure.liquid path="assets/img/publication_preview/thesis_pseudo.png" title="Image 2" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">

@@ -56,14 +56,14 @@ This project was based on the [instructables project](https://www.instructables.
       <source src="/assets/video/clock_mid.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="text-center">Receive</p>
+    <p class="text-center">Working...</p>
   </div>  
   <div class="col-lg-6">
     <video width="100%" controls>
       <source src="/assets/video/clock_end_back.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="text-center">Transmit</p>
+    <p class="text-center">Finally!</p>
   </div>
 </div>
 <div class="caption">
