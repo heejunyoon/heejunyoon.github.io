@@ -30,15 +30,29 @@ I enjoy spending time on the court, honing my skills, and staying active. Below 
 
 I’m a big fan of volleyball and enjoy watching matches in my free time. I am a fan of **GS Kixx**! 🥳 Join the famous Korean sports cheering spirit!
 
+<style>
+  /* CSS to rotate the image */
+  .rotate90 {
+    transform: rotate(90deg); /* Rotates the image 90 degrees */
+    transform-origin: center; /* Ensures rotation is applied from the center */
+  }
+</style>
+<style>
+  .rotate180 {
+    transform: rotate(180deg); 
+    transform-origin: center; 
+  }
+</style>
+
 <div class="row justify-content-center">
   <div class="col-6">
-    {% include figure.liquid path="assets/img/proj/volly_2.jpg" title="Image 1" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;"%}
+    {% include figure.liquid path="assets/img/proj/volly_2.jpg" title="Image 1" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col">
-    {% include figure.liquid path="assets/img/proj/volly_5.jpg" title="Image 2" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;"%}
+    {% include figure.liquid path="assets/img/proj/volly_5.jpg" title="Image 2" class="img-fluid rounded z-depth-1 rotate90" %}
   </div>
   <div class="col-6">
-    {% include figure.liquid path="assets/img/proj/volly_3.jpg" title="Image 3" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;"%}
+    {% include figure.liquid path="assets/img/proj/volly_3.jpg" title="Image 3" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -50,15 +64,15 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
 
 <div class="row justify-content-center">
   <div class="col-6">
-    {% include figure.liquid path="assets/img/bostk_ocean.jpg" title="Vladivostok" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;"%}
+    {% include figure.liquid path="assets/img/bostk_ocean.jpg" title="Vladivostok" class="img-fluid rounded z-depth-1 rotate180" %}
     <p class="text-center">Vladivostok</p>
   </div>
   <div class="col">
-    {% include figure.liquid path="assets/img/prof_pic.jpg" title="seoul" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;"%}
+    {% include figure.liquid path="assets/img/prof_pic.jpg" title="seoul" class="img-fluid rounded z-depth-1" %}
     <p class="text-center">Seoul</p>
   </div>
   <div class="col">
-    {% include figure.liquid path="assets/img/sunchon_back.jpg" title="Suncheonman Wetland" class="img-fluid rounded z-depth-1" style="image-orientation: from-image;"%}
+    {% include figure.liquid path="assets/img/sunchon_back.jpg" title="Suncheonman Wetland" class="img-fluid rounded z-depth-1 rotate90" %}
     <p class="text-center">Suncheonman Wetland</p>
   </div>
 </div>
