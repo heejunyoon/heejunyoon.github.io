@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /miscellaneous/
-title: Miscellaneous
+title: miscellaneous
 description: This section showcases what I love to do in my free time, including playing tennis, watching volleyball, and traveling in nature.
 nav: true
 nav_order: 5
@@ -34,11 +34,11 @@ I’m a big fan of volleyball and enjoy watching matches in my free time. I am a
   <div class="col-6">
     {% include figure.liquid path="assets/img/proj/volly_2.jpg" title="Image 1" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-">
+  <div class="col">
     {% include figure.liquid path="assets/img/proj/volly_5.jpg" title="Image 2" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-6">
-    {% include figure.liquid path="assets/img/proj/volly_3.jpg" title="Image 2" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/proj/volly_3.jpg" title="Image 3" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
