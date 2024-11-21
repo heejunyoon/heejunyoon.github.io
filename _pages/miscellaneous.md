@@ -44,7 +44,7 @@ I’m a big fan of volleyball and enjoy watching matches in my free time. I am a
   }
 </style>
 
-<div class="row justify-content-center">
+<div class="row align-items-center justify-content-center">
   <div class="col-6">
     {% include figure.liquid path="assets/img/proj/volly_2.jpg" title="Image 1" class="img-fluid rounded z-depth-1" %}
   </div>
@@ -62,7 +62,7 @@ I’m a big fan of volleyball and enjoy watching matches in my free time. I am a
 
 Exploring nature helps me unwind and appreciate the beauty of our world. Below are some photos from my travels.
 
-<div class="row justify-content-center">
+<div class="row align-items-center justify-content-center">
   <div class="col-6">
     {% include figure.liquid path="assets/img/bostk_ocean.jpg" title="Vladivostok" class="img-fluid rounded z-depth-1 rotate180" %}
     <p class="text-center">Vladivostok</p>
