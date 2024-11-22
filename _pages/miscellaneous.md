@@ -49,7 +49,7 @@ I’m a big fan of volleyball and enjoy watching matches in my free time. I am a
     {% include figure.liquid path="assets/img/proj/volly_2.jpg" title="Image 1" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col">
-    {% include figure.liquid path="assets/img/proj/volly_5.jpg" title="Image 2" class="img-fluid rounded z-depth-1 rotate90" %}
+    {% include figure.liquid path="assets/img/proj/volly_5.jpg" title="Image 2" class="img-fluid rounded z-depth-1 " %}
   </div>
   <div class="col-6">
     {% include figure.liquid path="assets/img/proj/volly_3.jpg" title="Image 3" class="img-fluid rounded z-depth-1" %}
@@ -72,7 +72,7 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
     <p class="text-center">Seoul</p>
   </div>
   <div class="col">
-    {% include figure.liquid path="assets/img/sunchon_back.jpg" title="Suncheonman Wetland" class="img-fluid rounded z-depth-1 rotate90" %}
+    {% include figure.liquid path="assets/img/sunchon_back.jpg" title="Suncheonman Wetland" class="img-fluid rounded z-depth-1 " %}
     <p class="text-center">Suncheonman Wetland</p>
   </div>
 </div>
