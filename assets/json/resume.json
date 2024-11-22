@@ -11,11 +11,11 @@
   },
   "education": [
     {
-      "institution": "Ehwa Womans University, Seoul, Republic of Korea",
+      "institution": "Ehwa Womans University",
       "location": "Seoul, Republic of Korea",
       "url": "https://www.ewha.ac.kr/ewhaen/index.do",
-      "area": "Electrical Engineering",
-      "studyType": "M.S.",
+      "area": "Electronics and Electrical Engineering",
+      "studyType": "Master of Science",
       "startDate": "2023",
       "endDate": "2024",
       "score": "4.0/4.0",
@@ -24,8 +24,9 @@
     {
       "institution": "Ewha Womans University",
       "location": "Seoul, Republic of Korea",
-      "area": "Electronics and Electrical Engineering",
-      "studyType": "B.S.",
+      "url": "https://www.ewha.ac.kr/ewhaen/index.do",
+      "area": "Electronics and Electrical Engineering, minor in Mathematics",
+      "studyType": "Bachelor of Science",
       "startDate": "2019",
       "endDate": "2023",
       "score": "3.79/4.0",
@@ -65,51 +66,51 @@
   "awards": [
     {
       "title": "Full-tuition Scholarship based on merit",
-      "date": "2023-03-01",
+      "date": "2023 - 2024",
       "awarder": "Ewha Womans University",
       "summary": "Awarded a full-tuition scholarship for academic excellence."
     },
     {
       "title": "BK21 Overseas Training Scholarship",
-      "date": "2023-06-01",
+      "date": "2023-06",
       "awarder": "Ewha Womans University, BK21 Plus",
       "summary": "Received scholarship support for overseas training and research."
     },
     {
       "title": "Kwanjeong Scholarship",
-      "date": "2021-03-01",
+      "date": "2021 - 2022",
       "awarder": "Kwanjeong Educational Foundation",
       "summary": "Awarded as a promising student and received $18,000 over four semesters."
     },
     {
       "title": "Grand Prize in Undergraduate Thesis Competition",
-      "date": "2022-11-01",
+      "date": "2022-11",
       "awarder": "IEIE Autumn Annual Conference",
       "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11195420",
       "summary": "Awarded for the Undergraduate Thesis Competition. (📄 Paper link included)."
     },
     {
       "title": "Gold Prize in Engineering Capstone Design Contest",
-      "date": "2022-01-01",
+      "date": "2022-12",
       "awarder": "Ewha Womans University",
       "summary": "Recognized for excellence in capstone design for innovative solutions."
     },
     {
       "title": "Dean’s List",
-      "date": "2019-03-01",
+      "date": "2019-2022",
       "awarder": "Ewha Womans University",
-      "summary": "Maintained a top GPA and listed on the Dean’s list for multiple semesters."
+      "summary": "Maintained a top GPA and listed on the Dean’s list for 5 semesters."
     },
     {
       "title": "Engineering Leadership Scholarship",
-      "date": "2020-01-01",
+      "date": "2020-01",
       "awarder": "Ewha Womans University",
       "summary": "Awarded for leadership in engineering-related projects and activities."
     },
     {
       "title": "Gold Medal in AI-JAM Korea 2020",
-      "date": "2020-11-01",
-      "awarder": "Hyundai Motors",
+      "date": "2019-08-15",
+      "awarder": "AI-JAM Association",
       "url": "https://github.com/ottl-seo/AI-JAM_KOREA_2020",
       "summary": "Developed a clustering model utilizing NLP techniques to automatically cluster YouTube Q&A comments. Delivered the final presentation."
     }
@@ -120,6 +121,7 @@
       "name": "Deep Learning-Based Semiconductor Product Inspection",
       "summary": "Thesis for Master's degree under Prof. Jeongtae Kim. Developed a lightweight twin network-based defect detection system for IC substrates, designed to be robust against mis-registration and characteristic differences.",
       "highlights": ["Siamese Network", "Change Detection", "Attention", "Knowledge Distillation", "Vision Transformer"],
+      "url": "https://heejunyoon.github.io/projects/1_1_thesis/",
       "startDate": "2023-01",
       "endDate": "2024-06"
     },
@@ -134,12 +136,13 @@
       ],
       "startDate": "2022-07",
       "endDate": "2023-02",
-      "url": "assets/pdf/UR2023_poster_final.pdf"
+      "url": "https://heejunyoon.github.io/projects/1_2_PM/"
     },
     {
       "name": "3D Beamforming-Based Estimation of Breathing and Heart Rates",
       "summary": "Investigated an approach for estimating breathing and heartbeat rates utilizing 3D beamforming-based frequency modulated continuous wave (FMCW) radar signals under Prof. Jeongtae Kim. Demonstrated superior performance compared to conventional 2D beamforming methods.",
       "highlights": ["Radar Signal Processing", "Beamforming", "Signal Analysis", "Experimental Design and Execution"],
+      "url": "https://heejunyoon.github.io/projects/1_3_radar_heart/",
       "startDate": "2022-09",
       "endDate": "2022-11"
     },
@@ -163,9 +166,9 @@
         "Club Exhibition Projects: Engineered a DDR pad with Arduino and pressure sensors in 2019, and developed an IoT clock with LED animations and 3D modeling in 2020",
         "Key technologies: Arduino, IoT, Bluetooth, Embedding, Hardware Design, 3D printing"
       ],
+      "url": "https://heejunyoon.github.io/projects/#fun",
       "startDate": "2019",
-      "endDate": "2022",
-      "url": "https://youtu.be/XkUS9vn9fcI?t=108"
+      "endDate": "2022"
     }
   ],
 
@@ -189,7 +192,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (TOEFL MyBestScore 108, IELTS 7.5)",
       "icon": ""
     }
   ]
