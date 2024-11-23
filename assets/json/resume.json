@@ -36,7 +36,7 @@
   "publications": [
     {
       "name": "A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates",
-      "publisher": "Annalen der Physik",
+      "publisher": "Master's degree Thesis",
       "releaseDate": "2024-06-30",
       "url": "https://www.riss.kr/link?id=T17053834",
       "summary": "Conducted research on IC substrate and EUV-based semiconductor inspection using advanced machine vision techniques. Developed and optimized defect detection algorithms for semiconductor products by comparing reference images with test images to identify inconsistencies."
@@ -66,7 +66,7 @@
   "awards": [
     {
       "title": "Full-tuition Scholarship based on merit",
-      "date": "2023 - 2024",
+      "date": "2023~2024",
       "awarder": "Ewha Womans University",
       "summary": "Awarded a full-tuition scholarship for academic excellence."
     },
@@ -78,7 +78,7 @@
     },
     {
       "title": "Kwanjeong Scholarship",
-      "date": "2021 - 2022",
+      "date": "2021~2022",
       "awarder": "Kwanjeong Educational Foundation",
       "summary": "Awarded as a promising student and received $18,000 over four semesters."
     },
@@ -97,7 +97,7 @@
     },
     {
       "title": "Dean’s List",
-      "date": "2019-2022",
+      "date": "2019~2022",
       "awarder": "Ewha Womans University",
       "summary": "Maintained a top GPA and listed on the Dean’s list for 5 semesters."
     },
