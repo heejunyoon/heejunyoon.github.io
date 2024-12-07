@@ -76,3 +76,32 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
     <p class="text-center">Suncheonman Wetland</p>
   </div>
 </div>
+
+### South Korea’s Crossroad: A Call to Defend Democracy
+
+Imagine waking up in a country renowned for its vibrant democracy, only to find its leader imposing martial law—an authoritarian measure reminiscent of a darker era. This is the current reality in South Korea, where a president, entrusted with upholding the freedoms of his people, chose instead to undermine them. The shockwaves of this decision reverberate far beyond Korea’s borders, as the world watches one of Asia’s most resilient democracies wrestle with a profound challenge to its principles. [Link of Reuters](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-address-nation-ahead-impeachment-vote-2024-12-07/?utm_source=chatgpt.com)
+
+I strongly support the impeachment of President Yoon Suk Yeol. His declaration of martial law is an alarming breach of democratic principles, representing a profound overreach of executive power. This action not only jeopardized the foundational freedoms of South Korea's citizens but also undermined the trust and integrity of our democratic institutions.
+
+This is a statement from a fellow student at my university that I would like to share with you. Please note that it has been machine-translated using DeepL free-version.
+
+> A call to all youth
+
+> On December 3, 2024, I watched Yoon Seok-yeol declare martial law and block the National Assembly.
+>
+> For the first time in my life, I saw “emergency martial law” come out of a textbook, military boots on the grounds of the National Assembly, and soldiers pointing guns at citizens.
+>
+> Some say today's 20-somethings are politically apathetic, that they've been cut off from the student movement, that they've grown up without a sense of freedom and struggle. I'll admit that martial law is foreign to us.
+>
+> But while we may not remember the cheers of the 2002 World Cup, we remember the tears of the 2014 Sewolho tragedy. We know the determination of Gwanghwamun in 2016—when hundreds of thousands of people, young and old, gathered under the cold winter skies, holding candles high to demand justice, accountability, and the restoration of democracy. It was there, in the heart of Seoul, that voices united to oust corruption and renew hope for a better future. And we mourn the heartbreak of Itaewon in 2022, a tragedy that left an indelible scar on our hearts, reminding us of the fragility of safety and the profound loss of human life.
+>
+> So let me ask you: Are we really a generation that grew up ignorant of tragedy? Are we truly unaware of the youth who were crushed to death by machines, drowned in the sea, crushed by conditioner, and killed themselves?
+>
+> It's 1997, the year of the first peaceful regime change. Humanly speaking, I am only twenty-eight years old this year. Our peace is still the same age as our youth, a friend of understanding. We can no longer tolerate the death of another human being of any age.
+>
+> I implore you to protect our youth, our green spring, and the spring of Seoul again.
+>
+> **December 6, 2024**  
+> **Ewha Womans University, Department of Political Science and Diplomacy, Class of 2022**
+>
+> _— Statement from a student at Ewha Womans University_
