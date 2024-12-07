@@ -55,14 +55,7 @@ table.table a {
     border: 1px solid var(--global-divider-color) !important;
   }
 }
-blockquote {
-  font-size: 0.9rem; /* Adjust size */
-  color: #555; /* Change text color */
-  border-left: 4px solid #ccc; /* Customize border */
-  padding: 10px 20px; /* Adjust padding */
-  background-color: #f9f9f9; /* Optional: Add background */
-  margin: 1em 0; /* Adjust spacing */
-}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 4px solid var(--global-theme-color);

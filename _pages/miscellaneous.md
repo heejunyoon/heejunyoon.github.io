@@ -87,21 +87,20 @@ This is a statement from a fellow student at my university that I would like to 
 
 > **A call to all youth**
 >
-> <small> On December 3, 2024, I watched Yoon Seok-yeol declare martial law and block the National Assembly.</small>
+> <small> _On December 3, 2024, I watched Yoon Seok-yeol declare martial law and block the National Assembly._</small>
 >
-> <small> For the first time in my life, I saw “emergency martial law” come out of a textbook, military boots on the grounds of the National Assembly, and soldiers pointing guns at citizens.</small>
+> <small> _For the first time in my life, I saw “emergency martial law” come out of a textbook, military boots on the grounds of the National Assembly, and soldiers pointing guns at citizens._</small>
 >
-> <small> Some say today's 20-somethings are politically apathetic, that they've been cut off from the student movement, that they've grown up without a sense of freedom and struggle. I'll admit that martial law is foreign to us.</small>
+> <small> _Some say today's 20-somethings are politically apathetic, that they've been cut off from the student movement, that they've grown up without a sense of freedom and struggle. I'll admit that martial law is foreign to us._</small>
 >
-> <small> But while we may not remember the cheers of the 2002 World Cup, we remember the tears of the 2014 Sewolho tragedy. We know the determination of Gwanghwamun in 2016—when hundreds of thousands of people, young and old, gathered under the cold winter skies, holding candles high to demand justice, accountability, and the restoration of democracy. It was there, in the heart of Seoul, that voices united to oust corruption and renew hope for a better future. And we mourn the heartbreak of Itaewon in 2022, a tragedy that left an indelible scar on our hearts, reminding us of the fragility of safety and the profound loss of human life.</small>
+> <small> _But while we may not remember the cheers of the 2002 World Cup, we remember the tears of the 2014 Sewolho tragedy. We know the determination of Gwanghwamun in 2016—when hundreds of thousands of people, young and old, gathered under the cold winter skies, holding candles high to demand justice, accountability, and the restoration of democracy. It was there, in the heart of Seoul, that voices united to oust corruption and renew hope for a better future. And we mourn the heartbreak of Itaewon in 2022, a tragedy that left an indelible scar on our hearts, reminding us of the fragility of safety and the profound loss of human life._</small>
 >
-> <small> So let me ask you: Are we really a generation that grew up ignorant of tragedy? Are we truly unaware of the youth who were crushed to death by machines, drowned in the sea, crushed by conditioner, and killed themselves?</small>
+> <small> _So let me ask you: Are we really a generation that grew up ignorant of tragedy? Are we truly unaware of the youth who were crushed to death by machines, drowned in the sea, crushed by conditioner, and killed themselves?_</small>
 >
-> <small> It's 1997, the year of the first peaceful regime change. Humanly speaking, I am only twenty-eight years old this year. Our peace is still the same age as our youth, a friend of understanding. We can no longer tolerate the death of another human being of any age.</small>
+> <small> _It's 1997, the year of the first peaceful regime change. Humanly speaking, I am only twenty-eight years old this year. Our peace is still the same age as our youth, a friend of understanding. We can no longer tolerate the death of another human being of any age.</small>_
 >
-> <small> I implore you to protect our youth, our green spring, and the spring of Seoul again.</small>
+> <small> _I implore you to protect our youth, our green spring, and the spring of Seoul again._</small>
 >
-> <small> **December 6, 2024** </small>
-> <small> **Ewha Womans University, Department of Political Science and Diplomacy, Class of 2022**</small>
+> <small> **December 6, 2024** </small> > <small> **Ewha Womans University, Department of Political Science and Diplomacy, Class of 2022**</small>
 >
-> <small> _— Statement from a student at Ewha Womans University_ > </small>
+> <small> _— Statement from a student at Ewha Womans University_ </small>
