@@ -80,9 +80,9 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
 
 
 
-### PostScript: South Korea’s Crossroad_A Call to Defend Democracy
+### PostScript: South Korea’s Crossroad - A Call to Defend Democracy
 
-Imagine waking up in a country renowned for its vibrant democracy, only to find its leader imposing martial law—an authoritarian measure reminiscent of a darker era. This is the current reality in South Korea, where a president, entrusted with upholding the freedoms of his people, chose instead to undermine them. The shockwaves of this decision reverberate far beyond Korea’s borders, as the world watches one of Asia’s most resilient democracies wrestle with a profound challenge to its principles. [Link of Reuters](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-address-nation-ahead-impeachment-vote-2024-12-07/?utm_source=chatgpt.com)
+Imagine waking up in a country renowned for its vibrant democracy, only to find its leader imposing martial law—an authoritarian measure reminiscent of a darker era. This is the current reality in South Korea, where a president, entrusted with upholding the freedoms of his people, chose instead to undermine them. The shockwaves of this decision reverberate far beyond Korea’s borders, as the world watches one of Asia’s most resilient democracies wrestle with a profound challenge to its principles. [Link to CNN](https://edition.cnn.com/2024/12/03/asia/south-korea-martial-law-explainer-intl-hnk/index.html)
 
 I strongly support the impeachment of President Yoon Suk Yeol. His declaration of martial law is an alarming breach of democratic principles, representing a profound overreach of executive power. This action not only jeopardized the foundational freedoms of South Korea's citizens but also undermined the trust and integrity of our democratic institutions.
 
