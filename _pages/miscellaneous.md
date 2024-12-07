@@ -85,9 +85,9 @@ I strongly support the impeachment of President Yoon Suk Yeol. His declaration o
 
 This is a statement from a fellow student at my university that I would like to share with you. Please note that it has been machine-translated using DeepL free-version.
 
-> A call to all youth
-
-> On December 3, 2024, I watched Yoon Seok-yeol declare martial law and block the National Assembly.
+> **A call to all youth**
+>
+> <small> On December 3, 2024, I watched Yoon Seok-yeol declare martial law and block the National Assembly.
 >
 > For the first time in my life, I saw “emergency martial law” come out of a textbook, military boots on the grounds of the National Assembly, and soldiers pointing guns at citizens.
 >
@@ -104,4 +104,4 @@ This is a statement from a fellow student at my university that I would like to 
 > **December 6, 2024**  
 > **Ewha Womans University, Department of Political Science and Diplomacy, Class of 2022**
 >
-> _— Statement from a student at Ewha Womans University_
+> _— Statement from a student at Ewha Womans University_ > </small>
