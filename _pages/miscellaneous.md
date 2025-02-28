@@ -26,9 +26,9 @@ I enjoy spending time on the court, honing my skills, and staying active. Below 
 </div>
 ---
 
-### 🏐 Watching Volleyball
+### 🏐 Watching & Playing Volleyball
 
-I’m a big fan of volleyball and enjoy watching matches in my free time. I am a fan of **GS Kixx**! 🥳 Join the famous Korean sports cheering spirit!
+I’m a big fan of volleyball and enjoy playing and watching matches in my free time. I am a fan of **GS Kixx**! 🥳 Join the famous Korean sports cheering spirit!
 
 <style>
   /* CSS to rotate the image */
@@ -80,7 +80,7 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
 
 
 
-### PostScript: South Korea’s Crossroad - A Call to Defend Democracy
+<!-- ### PostScript: South Korea’s Crossroad - A Call to Defend Democracy
 
 Imagine waking up in a country renowned for its vibrant democracy, only to find its leader imposing martial law—an authoritarian measure reminiscent of a darker era. This is the current reality in South Korea, where a president, entrusted with upholding the freedoms of his people, chose instead to undermine them. The shockwaves of this decision reverberate far beyond Korea’s borders, as the world watches one of Asia’s most resilient democracies wrestle with a profound challenge to its principles. [Link to CNN](https://edition.cnn.com/2024/12/03/asia/south-korea-martial-law-explainer-intl-hnk/index.html)
 
@@ -130,5 +130,5 @@ This is a statement from a fellow student at my university that I would like to 
 >
 > &nbsp;
 >
-> _— Statement from a student at Ewha Womans University_
+> _— Statement from a student at Ewha Womans University_ -->
 

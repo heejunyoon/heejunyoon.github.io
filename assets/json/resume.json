@@ -3,7 +3,7 @@
     "name": "Heejun Yoon",
     "label": "",
     "image": "assets/img/hippo.jpg",
-    "email": "hjyoon9808@gmail.com",
+    "email": "heejunyoon@kist.re.kr | hjyoon9808@gmail.com",
     "phone": "",
     "url": "https://heejunyoon.github.io",
     "interest": "Deep Learning | Interested in exploring the application of various fields and understanding its mechanism!",
@@ -31,6 +31,16 @@
       "endDate": "2023",
       "score": "3.79/4.0",
       "courses": ["Linear Algebra", "Embedded Systems", "Signal Processing", "Communication Networks"]
+    }
+  ],
+  "Work": [
+    {
+      "name": "Korea Institute of Science and Technology, Center for AI Research",
+      "position": "Post-Master Researcher",
+      "url": "https://www.kist.re.kr/eng/index.do",
+      "startDate": "2025-01-02",
+      "summary": "I am developing an AI-driven Multiview Vision-Language Model (VLM) to improve scene understanding from multiple perspectives. This research aims to effectively process overlapping visual information from multiview images by leveraging token merging strategies before passing the data to a Large Language Model (LLM).",
+      "highlights": ["Vision-Language Model (VLM) Development", "Multimodal Learning", "Multiview Image Understanding", "Token Merging Strategy"]
     }
   ],
   "publications": [
