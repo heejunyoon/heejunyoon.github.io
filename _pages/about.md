@@ -18,7 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 ### Welcome! 🌍
 
-Hello! I'm **Heejun Yoon**, a passionate AI researcher and engineer with a passion for using technology to solve real-world challenges. I hold a bachelor's and master's degree in electrical engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).
 Hello! I'm **Heejun Yoon**, an AI researcher and engineer passionate about advancing AI technologies for real-world impact.
 I am currently conducting research at [**Korea Institute of Science and Technology (KIST)**](https://www.kist.re.kr/eng/index.do#secondPage), focusing on AI-driven solutions for Multiview Vision-Language Models.
 I earned my **bachelor's and master's degrees in electrical engineering** from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).  
