@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /miscellaneous/
-title: miscellaneous
+permalink: /misc/
+title: misc
 description: This section showcases what I love to do in my free time, including playing tennis, watching volleyball, and traveling in nature.
 nav: true
 nav_order: 5
