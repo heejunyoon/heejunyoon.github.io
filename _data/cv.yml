@@ -6,16 +6,16 @@
     - name: Languages
       value: English, Korean
     - name: E-mail
-      value: mailto:hjyoon9808@gmail.com
+      value: mailto:heejunyoon@kist.re.kr | mailto:hjyoon9808@gmail.com
     - name: Research Interest
-      value: Deep Learning | AI-Driven Conservation | Model Adaptation
+      value: AI-Driven conservation | AI for social good
 
 - title: Education
   type: time_table
   contents:
     - title: M.S. in Electronics and Electrical Engineering
       institution: Ewha Womans University, Seoul, Korea
-      year: "Mar 2023 - Aug 2024"
+      year: "Aug 2024"
       description:
         - Advisor: Prof. Jeongtae Kim
         - GPA: 4.0/4.0 (4.3/4.3)
@@ -24,7 +24,7 @@
 
     - title: B.S. in Electronics and Electrical Engineering
       institution: Ewha Womans University, Seoul, Korea
-      year: "Mar 2019 - Feb 2023"
+      year: "Feb 2023"
       description:
         - Minor: Mathematics
         - Major & Minor GPA: 3.79/4.0 (3.90/4.3)
