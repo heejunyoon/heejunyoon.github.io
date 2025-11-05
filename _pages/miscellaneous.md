@@ -26,9 +26,9 @@ I enjoy spending time on the court, honing my skills, and staying active. Below 
 </div>
 ---
 
-### 🏐 Watching Volleyball
+### 🏐 Volleyball
 
-I’m a big fan of volleyball and enjoy watching matches in my free time. I am a fan of **GS Kixx**! 🥳 Join the famous Korean sports cheering spirit!
+I’m a big fan of volleyball and enjoy watching matches and playing vollyball in my free time. I am a fan of **GS Kixx**! 🥳 Join the famous Korean sports cheering spirit!
 
 <style>
   /* CSS to rotate the image */
@@ -63,7 +63,7 @@ I’m a big fan of volleyball and enjoy watching matches in my free time. I am a
 
 ### 🌳 Traveling in Nature
 
-Exploring nature helps me unwind and appreciate the beauty of our world. Below are some photos from my travels.
+Exploring nature helps me unwind and appreciate the beauty of our planet. Below are some photos from my travels.
 
 <div class="row align-items-center justify-content-center">
   <div class="col-6">
