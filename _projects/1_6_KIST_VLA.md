@@ -5,7 +5,7 @@ description: "A hierarchical agent framework for long-horizon task execution in 
 date: 2025-07-01
 category: research
 importance: 1
-img: assets/img/thumb_KIST_VLA.PNG
+img: assets/img/thumb_KIST_VLA.png
 related_publications: false
 ---
 

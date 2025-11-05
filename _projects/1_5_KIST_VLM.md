@@ -5,7 +5,7 @@ description: "Enhancing Vision-Language Models (VLMs) with 3D position embedding
 date: 2025-06-30
 category: research
 importance: 2
-img: assets/img/thumb_KIST_VLM.PNG
+img: assets/img/thumb_KIST_VLM.png
 related_publications: true
 ---
 
