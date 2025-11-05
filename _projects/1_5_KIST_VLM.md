@@ -30,6 +30,20 @@ Standard Vision-Language Models (VLMs) struggle to understand 3D spatial relatio
 - **4. Efficient Fine-Tuning:**
     - Froze the entire pre-trained VLM (ViT and LLM) and **fine-tuned only the projection head** to efficiently learn this new, spatially-aware representation.
 
+
+<div class="row justify-content-center">
+  <div class="col-auto">
+    {% include figure.liquid path="assets/img/proj/KIST_VLM.png" title="Model Architecture" class="img-fluid" %}
+  </div>
+  <div class="col-auto">
+    {% include figure.liquid path="assets/img/proj/KIST_VLM_results.png" title="Benchmark Results" class="img-fluid" %}
+  </div>
+</div>
+<div class="caption">
+  Left: The proposed model architecture, injecting 3D Position Embeddings. Right: Benchmark results on ScanQA and MuirBench.
+</div>
+
+
 ## Results
 
 The proposed method significantly outperformed strong baselines on 3D spatial reasoning benchmarks:

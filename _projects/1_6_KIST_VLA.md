@@ -20,6 +20,14 @@ This is my primary postdoctoral research project, focusing on enabling embodied 
 - **To decompose abstract tasks**: How can a high-level planner (LLM) effectively break down vague commands into a logical sequence of actionable sub-goals for the agent?
 
 ## Core Methodology
+<div class="row justify-content-center">
+  <div class="col-auto">
+    {% include figure.liquid path="assets/img/proj/KIST_VLA.png" title="Hierarchical Framework Diagram" class="img-fluid" %}
+  </div>
+</div>
+<div class="caption">
+  Overview of the hierarchical planning framework: The LLM Planner (top) provides sub-goals, the Spatial Memory (left) stores a topological map, and the Spatially-Aware Agent (right) perceives and acts.
+</div>
 
 Our framework consists of three core components that work in a hierarchical loop:
 
