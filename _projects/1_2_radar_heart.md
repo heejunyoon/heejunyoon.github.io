@@ -4,7 +4,7 @@ title: "Vital Sign Monitoring with FMCW Radar"
 description: "A novel method for estimating breathing and heart rates using 3D beamforming radar signals."
 date: 2022-11-01
 category: research
-importance: 3
+importance: 5
 img: assets/img/thumb_radarconf.png
 related_publications: false
 ---

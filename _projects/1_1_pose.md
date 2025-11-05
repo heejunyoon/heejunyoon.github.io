@@ -4,7 +4,7 @@ title: "Action Recognition from 3D Point Clouds"
 date: 2022-09-01
 description: "Presented at IPIU 2023, this paper explores action recognition using 3D point clouds generated from FMCW radar signals."
 category: research
-importance: 4
+importance: 6
 img: assets/img/publication_preview/thumb_IPIU.gif
 related_publications: true
 bibliography: [2023IPIU]

@@ -4,7 +4,7 @@ title: "Deep Learning-Based Semiconductor Product Inspection"
 description: "A lightweight twin network for real-time defect detection in semiconductor IC substrates."
 date: 2024-06-01
 category: research
-importance: 1
+importance: 3
 img: assets/img/thumb_thesis.PNG
 related_publications: true
 bibliography: [thesis]
