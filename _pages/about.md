@@ -20,10 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I'm **Heejun Yoon**, an post-master researcher at the [Korea Institute of Science and Technology (KIST)](https://www.kist.re.kr/eng/index.do#secondPage).
 
-I'm fascinated by the challenge of building intelligent systems that can truly **perceive, understand, and act in our complex world**. My work is about bridging the gap between digital models and physical reality.
+My ultimate goal is to build application-driven AI to tackle our planet's most pressing **environmental and conservation challenges**.
 
-I believe technology should be a tool for positive change, and I'm driven to build solutions for real-world impact. I hold M.S. and B.S. degrees in Electrical Engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).
+To achieve this, my work focuses on building intelligent systems that can truly **perceive, understand, and act** in our complex physical world. This research—bridging the gap between digital models and physical reality—is the essential foundation for creating AI that can operate reliably in the wild.
 
+I hold M.S. and B.S. degrees in Electrical Engineering from [Ewha Womans University](https://www.ewha.re.kr/ewhaen/index.do), and I minored in Mathematics as an undergraduate.
 
 
 ### 💡 My Current Research
