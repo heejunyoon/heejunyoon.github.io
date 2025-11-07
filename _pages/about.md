@@ -24,7 +24,7 @@ I'm fascinated by the challenge of building intelligent systems that can truly *
 
 I believe technology should be a tool for positive change, and I'm driven to build solutions for real-world impact. I hold M.S. and B.S. degrees in Electrical Engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).
 
----
+
 
 ### 💡 My Current Research
 
@@ -35,24 +35,33 @@ At KIST, I'm focused on developing the core capabilities for intelligent agents.
 
 ---
 
-### 🌱 The Questions That Drive Me
+### 🌱 My Research Vision: The Questions That Drive Me
 
-My current research builds the 'how'—the technical skills to make an agent see, understand, and act. But my 'why' comes from a deep desire to aim this technology at our planet's most pressing challenges.
+My current research at KIST builds the 'how'—the technical skills to make an agent perceive, understand, and act. But my 'why' comes from a deep desire to aim this technology at our planet's most pressing challenges.
 
-I'm fascinated by the gap between standard AI benchmarks and the reality of high-stakes environmental problems. Unlike web-scale data, ecological data is often sparse, geographically biased, and incredibly messy.
+Here is the core problem that fascinates me and the key questions I am preparing to answer.
 
-This leads me to the core questions I want to tackle in my future work:
+#### The Core Challenge: AI Beyond Web-Scale Data
 
-* **How do we move beyond "error rates" and measure what truly matters?**
-    In manufacturing, the cost of an error is financial. In conservation, the "cost of error" is ecological and human—a habitat we fail to protect, a species lost. How can we build AI evaluation frameworks that measure this true, real-world cost?
+Most modern AI excels on standardized benchmarks built from web-scale data. However, these models are often ill-suited for high-stakes environmental problems. Ecological data is the opposite: it's **sparse, expensive to collect, geographically biased** (e.g., most data is from Europe and North America), and incredibly messy.
 
-* **How can we build a holistic understanding from fragmented data?**
-    To understand an ecosystem, we need to connect satellite images, on-the-ground acoustic sensors, and even textual policy reports. How do we build robust models that can fuse these different modalities into a single, reliable picture?
+This is why my focus is on **"Application-Driven AI"**—moving beyond generic benchmarks to build models that solve specific, real-world constraints.
 
-* **How do we create tools that are *useful*, not just *novel*?**
-    How can we develop new methods that learn effectively from the limited, imperfect, and label-scarce data that defines real-world problems?
+This focus leads me to two fundamental questions:
 
-My ultimate goal is to create tools that are not just technically innovative, but are trustworthy, realistic, and truly valuable for the environmental stakeholders, ecologists, and policymakers on the front lines.
+#### 1. How can we build a unified picture from fragmented data?
+
+To understand an ecosystem, we can't rely on one data type. We must connect satellite images, on-the-ground acoustic sensors, drone footage, and even textual policy reports. Each piece holds a different part of the puzzle.
+
+* **The Question:** How can we build robust **multimodal models** that fuse these diverse, fragmented, and often imperfect data streams into a single, reliable understanding to inform action?
+
+#### 2. How can we optimize decisions when the "cost of error" is real?
+
+In conservation, a model's mistake isn't just a lower accuracy score. It's a habitat we fail to protect, a species lost, or resources wasted on the wrong intervention.
+
+* **The Question:** How can we build **decision-making frameworks** that move beyond simple "error rates"? We need AI that helps policymakers and ecologists prioritize actions, weigh complex trade-offs, and understand the *true* real-world cost of their decisions.
+
+My ultimate goal is to create tools that are not just technically novel, but are trustworthy, realistic, and truly valuable for the stakeholders, scientists, and policymakers on the front lines of conservation and climate change.
 ---
 
 ### 🚀 My Journey So Far
