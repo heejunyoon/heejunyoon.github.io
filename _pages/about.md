@@ -16,24 +16,54 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Welcome! 🌍
+### Welcome! 👋
 
-Hello! I'm **Heejun Yoon**, an AI researcher and engineer passionate about advancing AI technologies for real-world impact.
-I am currently conducting research at [Korea Institute of Science and Technology (KIST)](https://www.kist.re.kr/eng/index.do#secondPage), focusing on AI-driven solutions for Multiview Vision-Language Models.
-I earned my **bachelor's and master's degrees in electrical engineering** from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).  
+Hello! I'm **Heejun Yoon**, an post-master researcher at the [Korea Institute of Science and Technology (KIST)](https://www.kist.re.kr/eng/index.do#secondPage).
 
+I'm fascinated by the challenge of building intelligent systems that can truly **perceive, understand, and act in our complex world**. My work is about bridging the gap between digital models and physical reality.
 
-#### What Drives Me ✨
+I believe technology should be a tool for positive change, and I'm driven to build solutions for real-world impact. I hold M.S. and B.S. degrees in Electrical Engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do).
 
-Whether it's solving complex problems, exploring cutting-edge technologies, or working on collaborative projects, I’m always motivated by a love for transforming advanced data insights into meaningful, real-world applications. I’m particularly interested in:
+---
 
-- **[AI for Social Good]:** Exploring responsible AI technologies, including computer vision and multimodal learning, to tackle global challenges, from biodiversity preservation to equitable resource distribution, driving positive social and ecological impact.
-- **[AI for Decision-Making and Policy]:** Leveraging reinforcement learning and data-driven insights to inform policy decisions and optimize complex systems, fostering effective governance and societal benefits.
-- **[Explainable, Trustworthy AI]:** Moving beyond black-box, fostering transparency in AI decision-making processes to identify biases, ensure fairness, and promote reliable, trustworthy deployments of responsible and equitable AI systems.
+### 💡 My Current Research
 
-#### The Journey So Far 🚀
+At KIST, I'm focused on developing the core capabilities for intelligent agents. My research is currently centered on two main areas:
 
-My journey began with a fascination for optimizing complex systems to enhance human life. During my master’s research, I specialized in **machine vision**, building adaptable and efficient deep learning architectures for inspecting semiconductor products. As an undergraduate, I explored **FMCW radar signal processing** – tackling challenges in people counting, motion recognition with 3D point clouds, and vital sign monitoring. These experiences have shaped my drive to push technological boundaries, ensuring that progress remains aligned with sustainability and social good.
+* **Multiview Scene Understanding:** How can an AI understand a 3D space from multiple, limited 2D viewpoints? I'm developing Vision-Language Models (VLMs) that integrate these views to build a rich, contextual understanding of a scene.
+* **Embodied AI (Navigation & Planning):** Taking understanding a step further—how can an agent *act* on that understanding? I'm exploring how Large Language Models (LLMs) and Reinforcement Learning (RL) can work together for complex task planning and navigation in simulated worlds like Isaac Sim and Omnigibson.
+
+---
+
+### 🌱 The Questions That Drive Me
+
+My current research builds the 'how'—the technical skills to make an agent see, understand, and act. But my 'why' comes from a deep desire to aim this technology at our planet's most pressing challenges.
+
+I'm fascinated by the gap between standard AI benchmarks and the reality of high-stakes environmental problems. Unlike web-scale data, ecological data is often sparse, geographically biased, and incredibly messy.
+
+This leads me to the core questions I want to tackle in my future work:
+
+* **How do we move beyond "error rates" and measure what truly matters?**
+    In manufacturing, the cost of an error is financial. In conservation, the "cost of error" is ecological and human—a habitat we fail to protect, a species lost. How can we build AI evaluation frameworks that measure this true, real-world cost?
+
+* **How can we build a holistic understanding from fragmented data?**
+    To understand an ecosystem, we need to connect satellite images, on-the-ground acoustic sensors, and even textual policy reports. How do we build robust models that can fuse these different modalities into a single, reliable picture?
+
+* **How do we create tools that are *useful*, not just *novel*?**
+    How can we develop new methods that learn effectively from the limited, imperfect, and label-scarce data that defines real-world problems?
+
+My ultimate goal is to create tools that are not just technically innovative, but are trustworthy, realistic, and truly valuable for the environmental stakeholders, ecologists, and policymakers on the front lines.
+---
+
+### 🚀 My Journey So Far
+
+My path has been a progressive journey of understanding signals and systems.
+
+I started with 1D **radar signals** in undergrad, learning to detect motion and vital signs. My master's research expanded to 2D **machine vision**, where I built models to find tiny defects in semiconductors.
+
+Now, my work at KIST has moved into **3D scenes and embodied action**. This progression—from 1D signals to 2D images, and now to 3D interaction—has given me a powerful toolkit to tackle complex, real-world data.
+
+---
 
 #### My Mission 🌱
 
