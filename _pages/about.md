@@ -80,3 +80,5 @@ Through my work, I aim to make complex data accessible and actionable and push t
 
 If you're curious about my research, upcoming projects, or just want to connect, feel free to contact via [e-mail](mailto:hjyoon9808@gmail.com) or LinkdIn(heejun-yoon).
 Looking forward to sharing my work and insights with you!
+
+---
