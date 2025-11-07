@@ -39,29 +39,23 @@ At KIST, I'm focused on developing the core capabilities for intelligent agents.
 
 My current research at KIST builds the 'how'—the technical skills to make an agent perceive, understand, and act. But my 'why' comes from a deep desire to aim this technology at our planet's most pressing challenges.
 
-Here is the core problem that fascinates me and the key questions I am preparing to answer.
+My vision is to develop **"Application-Driven AI"**—moving beyond generic benchmarks to build models that solve specific, real-world constraints. This vision is built on tackling one core problem and pursuing two fundamental research pillars:
 
 #### The Core Challenge: AI Beyond Web-Scale Data
 
-Most modern AI excels on standardized benchmarks built from web-scale data. However, these models are often ill-suited for high-stakes environmental problems. Ecological data is the opposite: it's **sparse, expensive to collect, geographically biased** (e.g., most data is from Europe and North America), and incredibly messy.
+Most modern AI excels on standardized benchmarks, but these models are ill-suited for high-stakes environmental problems. Ecological data is the opposite: it's **sparse, expensive to collect, geographically biased**, and incredibly messy. This is the central problem I am focused on solving.
 
-This is why my focus is on **"Application-Driven AI"**—moving beyond generic benchmarks to build models that solve specific, real-world constraints.
+#### Pillar 1: Building a Unified Picture from Fragmented Data
 
-This focus leads me to two fundamental questions:
+To understand an ecosystem, we must connect satellite images, on-the-ground acoustic sensors, drone footage, and even textual policy reports. My first core question is: How can we build robust **multimodal models** that fuse these diverse and imperfect data streams into a single, reliable understanding to inform action?
 
-#### 1. How can we build a unified picture from fragmented data?
+#### Pillar 2: Optimizing Decisions When the "Cost of Error" is Real
 
-To understand an ecosystem, we can't rely on one data type. We must connect satellite images, on-the-ground acoustic sensors, drone footage, and even textual policy reports. Each piece holds a different part of the puzzle.
+In conservation, a model's mistake isn't just a lower accuracy score; it's a habitat we fail to protect or resources wasted. My second core question is: How can we build **decision-making frameworks** that move beyond simple "error rates" and help policymakers weigh the *true* real-world cost of their decisions?
 
-* **The Question:** How can we build robust **multimodal models** that fuse these diverse, fragmented, and often imperfect data streams into a single, reliable understanding to inform action?
 
-#### 2. How can we optimize decisions when the "cost of error" is real?
+My ultimate goal is to create tools that are not just technically novel, but are trustworthy, realistic, and truly valuable for the stakeholders, scientists, and policymakers on the front lines.
 
-In conservation, a model's mistake isn't just a lower accuracy score. It's a habitat we fail to protect, a species lost, or resources wasted on the wrong intervention.
-
-* **The Question:** How can we build **decision-making frameworks** that move beyond simple "error rates"? We need AI that helps policymakers and ecologists prioritize actions, weigh complex trade-offs, and understand the *true* real-world cost of their decisions.
-
-My ultimate goal is to create tools that are not just technically novel, but are trustworthy, realistic, and truly valuable for the stakeholders, scientists, and policymakers on the front lines of conservation and climate change.
 ---
 
 ### 🚀 My Journey So Far
