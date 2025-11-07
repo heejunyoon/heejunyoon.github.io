@@ -47,11 +47,13 @@ Most modern AI excels on standardized benchmarks, but these models are ill-suite
 
 #### Pillar 1: Building a Unified Picture from Fragmented Data
 
-To understand an ecosystem, we must connect satellite images, on-the-ground acoustic sensors, drone footage, and even textual policy reports. My first core question is: How can we build robust **multimodal models** that fuse these diverse and imperfect data streams into a single, reliable understanding to inform action?
+To understand an ecosystem, we must connect satellite images, on-the-ground acoustic sensors, drone footage, and even textual policy reports.
+- Core question : How can we build robust **multimodal models** that fuse these diverse and imperfect data streams into a single, reliable understanding to inform action?
 
 #### Pillar 2: Optimizing Decisions When the "Cost of Error" is Real
 
-In conservation, a model's mistake isn't just a lower accuracy score; it's a habitat we fail to protect or resources wasted. My second core question is: How can we build **decision-making frameworks** that move beyond simple "error rates" and help policymakers weigh the *true* real-world cost of their decisions?
+In conservation, a model's mistake isn't just a lower accuracy score; it's a habitat we fail to protect or resources wasted. 
+- Core question: How can we build **decision-making frameworks** that move beyond simple "error rates" and help policymakers weigh the *true* real-world cost of their decisions?
 
 
 My ultimate goal is to create tools that are not just technically novel, but are trustworthy, realistic, and truly valuable for the stakeholders, scientists, and policymakers on the front lines.
