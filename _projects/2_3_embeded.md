@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gesture-Based Servo Control System
-description: "Developed a system to control servo motors based on predefined gestures using gyro sensors and wireless communication modules"
+description: "Controlling servo motors with hand gestures, using a gyro sensor and wireless XBee modules"
 img: assets/img/thumb_embeded.png
 importance: 3
 category: fun
@@ -9,80 +9,43 @@ category: fun
 
 ## Overview
 
-This project focused on designing and implementing a **gesture-based servo control system**. It aimed to improve smart factory automation by recognizing specific gestures and wirelessly transmitting motion data for real-time monitoring.
+For this team project, we built a system that recognizes hand gestures and uses them to control servo motors over a wireless link. We had smart factory automation in mind: a worker makes a gesture, a machine moves, and a display shows what happened.
 
-## Transmit and Receive Workflow
+## How it works
 
-#### 1. Transmit (Sender) Part
+#### 1. Sender
 
-- **Components**:
+- A **gyro sensor (MPU6050)** measures acceleration and angular velocity while the user makes a gesture.
+- A **touch sensor** marks the end of the gesture.
+- An **XBee module** sends the data to the receiver.
 
-  - **Touch Sensor**: Detects user input and triggers data t---
-    layout: page
-    title: Gesture-Based Servo Control System
-    description: "Developed a system to control servo motors based on predefined gestures using gyro sensors and wireless communication modules"
-    img: assets/img/thumb_embeded.png
-    importance: 3
-    category: fun
+#### 2. Receiver
 
----
+- An **XBee module** receives the data.
+- The system classifies the gesture from the incoming data.
+- An **LCD** shows the recognized gesture, and the **servo motors** perform the matching action.
 
-## Overview
+## What we built
 
-This project focused on designing and implementing a **gesture-based servo control system**. It aimed to improve smart factory automation by recognizing specific gestures and wirelessly transmitting motion data for real-time monitoring.
+- Recognition of 8 predefined gestures from the gyro sensor
+- Wireless XBee link between the sender and the receiver
+- An LCD view of the motion pattern, updated in real time from the sensor
 
-## Transmit and Receive Workflow
+## Tools
 
-#### 1. Transmit (Sender) Part
+Arduino Zero, MPU6050 gyro sensor, XBee modules, and MATLAB for preprocessing and plotting the sensor data.
 
-- **Components**:
+## Demo and documentation
 
-  - **Touch Sensor**: Detects user input and triggers data transmission.
-  - **Gyro Sensor (MPU6050)**: Measures acceleration and angular velocity for specific gestures.
-  - **XBee Module**: Transmits the processed data to the receiver.
+**Full demo**
 
-- **Process**:
-  1. The user performs a gesture detected by the **gyro sensor**.
-  2. The **touch sensor** confirms gesture completion.
-  3. Data is packaged and sent via **XBee** to the receiver.
-
-#### 2. Receive (Receiver) Part
-
-- **Components**:
-
-  - **XBee Module**: Receives data transmitted by the sender.
-  - **LCD Display**: Visualizes the recognized gesture and corresponding motor action.
-  - **Servo Motors**: Executes actions based on the received data.
-
-- **Process**:
-  1. The **XBee receiver** module captures data.
-  2. The system processes incoming data to classify gestures.
-  3. Results are displayed on the **LCD** and executed by **servo motors**.
-
-## Key Contributions
-
-- Developed a system for **recognizing 8 predefined gestures** using **gyro sensors** and controlled servo motors based on these inputs.
-- Utilized **XBee wireless communication** to transmit data between the sender and receiver units.
-- Designed a system to visualize motion patterns on an LCD based on real-time sensor input.
-
-## Tools and Technologies
-
-- **Arduino Zero**: For controlling servo motors and integrating sensors.
-- **MPU6050 Gyro Sensor**: Used for motion detection and analysis.
-- **XBee Modules**: Enabled wireless communication between devices.
-- **MATLAB**: For data preprocessing and visualization.
-
-## Demo and Documentation
-
--- **Demo videos**
-
-- full video
 <video width="640" height="360" controls>
   <source src="/assets/video/embedded_total.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-- receive & transmit part
+**Receiver and sender**
+
 <div class="row">
   <div class="col-lg-6">
     <video width="100%" controls>
@@ -90,7 +53,7 @@ This project focused on designing and implementing a **gesture-based servo contr
       Your browser does not support the video tag.
     </video>
     <p class="text-center">Receive</p>
-  </div>  
+  </div>
   <div class="col-lg-6">
     <video width="100%" controls>
       <source src="/assets/video/embedded_transmit.mp4" type="video/mp4">
@@ -100,95 +63,15 @@ This project focused on designing and implementing a **gesture-based servo contr
   </div>
 </div>
 
--- **Presentation**
-You can view the documentation below or [download the PDF(in Korean)](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Final_project_report_embedded.pdf).
+**Report**
+
+You can read our team report below or [download the PDF (in Korean)](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Final_project_report_embedded.pdf).
 
 <iframe src="/assets/pdf/Final_project_report_embedded.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
-    <a href="/assets/pdf/Final_project_report_embedded.pdf"> Team Report written in Korean</a>.
+    <a href="/assets/pdf/Final_project_report_embedded.pdf">Team report (in Korean)</a>.
 </iframe>
 
 ## Results
 
-- This project demonstrated the feasibility of using **wireless gesture control** for smart factories, reducing human intervention while maintaining high accuracy in servo motor control.
-- Future improvements could include:
-
-  - Enhanced classification algorithms using machine learning.
-  - Self-contained gesture detection without requiring touch sensor validatio
-    ransmission.
-  - **Gyro Sensor (MPU6050)**: Measures acceleration and angular velocity for specific gestures.
-  - **XBee Module**: Transmits the processed data to the receiver.
-
-- **Process**:
-  1. The user performs a gesture detected by the **gyro sensor**.
-  2. The **touch sensor** confirms gesture completion.
-  3. Data is packaged and sent via **XBee** to the receiver.
-
-#### 2. Receive (Receiver) Part
-
-- **Components**:
-
-  - **XBee Module**: Receives data transmitted by the sender.
-  - **LCD Display**: Visualizes the recognized gesture and corresponding motor action.
-  - **Servo Motors**: Executes actions based on the received data.
-
-- **Process**:
-  1. The **XBee receiver** module captures data.
-  2. The system processes incoming data to classify gestures.
-  3. Results are displayed on the **LCD** and executed by **servo motors**.
-
-## Key Contributions
-
-- Developed a system for **recognizing 8 predefined gestures** using **gyro sensors** and controlled servo motors based on these inputs.
-- Utilized **XBee wireless communication** to transmit data between the sender and receiver units.
-- Designed a system to visualize motion patterns on an LCD based on real-time sensor input.
-
-## Tools and Technologies
-
-- **Arduino Zero**: For controlling servo motors and integrating sensors.
-- **MPU6050 Gyro Sensor**: Used for motion detection and analysis.
-- **XBee Modules**: Enabled wireless communication between devices.
-- **MATLAB**: For data preprocessing and visualization.
-
-## Demo and Documentation
-
--- **Demo videos**
-
-- full video
-<video width="640" height="360" controls>
-  <source src="/assets/video/embedded_total.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-- receive & transmit part
-<div class="row">
-  <div class="col-lg-6">
-    <video width="100%" controls>
-      <source src="/assets/video/embedded_receive.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p class="text-center">Receive</p>
-  </div>  
-  <div class="col-lg-6">
-    <video width="100%" controls>
-      <source src="/assets/video/embedded_transmit.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p class="text-center">Transmit</p>
-  </div>
-</div>
-
--- **Presentation**
-You can view the documentation below or [download the PDF(in Korean)](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Final_project_report_embedded.pdf).
-
-<iframe src="/assets/pdf/Final_project_report_embedded.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please download the PDF to view it:
-    <a href="/assets/pdf/Final_project_report_embedded.pdf"> Team Report written in Korean</a>.
-</iframe>
-
-## Results
-
-- This project demonstrated the feasibility of using **wireless gesture control** for smart factories, reducing human intervention while maintaining high accuracy in servo motor control.
-- Future improvements could include:
-  - Enhanced classification algorithms using machine learning.
-  - Self-contained gesture detection without requiring touch sensor validatio
+The system recognized the gestures and moved the servos as intended over the wireless link, which suggested gesture control could work for simple factory tasks. Next steps would be a machine learning classifier for the gestures and detecting the end of a gesture automatically, without the touch sensor.

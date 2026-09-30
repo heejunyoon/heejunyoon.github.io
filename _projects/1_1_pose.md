@@ -2,7 +2,7 @@
 layout: page
 title: "Action Recognition from 3D Point Clouds"
 date: 2022-09-01
-description: "Presented at IPIU 2023, this paper explores action recognition using 3D point clouds generated from FMCW radar signals."
+description: "Recognizing human actions from 3D point clouds built from FMCW radar signals (IPIU 2023)."
 category: research
 importance: 6
 img: assets/img/publication_preview/thumb_IPIU.gif
@@ -12,14 +12,11 @@ bibliography: [2023IPIU]
 
 ## Overview
 
-This paper introduces a method for **action recognition** using **3D point clouds** generated from **Frequency Modulated Continuous Wave (FMCW) radar signals**. The approach applies **Support Tensor Machine (STM)** to classify various actions based on the 3D spatial and temporal information contained in the point clouds.
+In this paper, we recognize human actions from **3D point clouds** built from frequency modulated continuous wave (FMCW) radar signals. A support tensor machine (STM) classifies each action from the spatial and temporal information in the point clouds.
 
-## Key Contributions
+## What I did
 
-- **3D Point Cloud Generation**:
-
-  - Applied **3D Capon Beamforming** to generate 3D point clouds from FMCW radar data.
-  - Utilized **subsampling** to reduce computational complexity while maintaining accuracy.
+- Built 3D point clouds from FMCW radar data with 3D Capon beamforming, and subsampled them to cut computation without losing much accuracy.
 
 <div class="row">
   <div class="col-lg-6">
@@ -65,20 +62,17 @@ This paper introduces a method for **action recognition** using **3D point cloud
   </div>
 </div>
 
-- **Action Classification**:
-  - Used **Support Tensor Machine (STM)** for classification, achieving an accuracy of **82%** across five distinct actions.
-  - Analyzed misclassification cases and identified potential improvements.
+- Classified the actions with an STM and looked through the misclassified cases to see where the model went wrong.
 
-## Experimental Setup
+## Setup
 
-- **Radar Sensor**: Texas Instruments IWR6843-ODS
-- **Tested Actions**: Sitting, standing, walking, raising hands, squatting.
-- **Participants**: 11 individuals performing each action within a 0.5m–2m range from the radar.
+- Radar: Texas Instruments IWR6843-ODS
+- Actions: sitting, standing up, walking, raising hands, crouching
+- Participants: 11 people, each performing every action 0.5 to 2 m from the radar
 
 ## Results
 
-- Achieved **82% accuracy** in classifying five different actions.
-- Highlighted key areas for further improvement, such as handling overlapping gesture patterns.
+The STM reached **82% accuracy** on the five actions. Most errors came from actions whose movement patterns overlap, which is the first thing I'd work on next.
 
 ## Poster (in Korean)
 
@@ -86,11 +80,8 @@ This paper introduces a method for **action recognition** using **3D point cloud
     Your browser does not support embedding PDFs. You can <a href="/assets/pdf/IPIU2023_poster.pdf">download the PDF here</a>.
 </iframe>
 
-## Conclusion
+## Takeaways
 
-This research demonstrates the feasibility of using FMCW radar for robust action recognition, providing a cost-effective and privacy-preserving alternative to camera-based systems. {% cite 2023IPIU %}
+FMCW radar can recognize actions reasonably well, and unlike a camera it doesn't record anyone's face. It's also cheap. {% cite 2023IPIU %}
 
-## Additionally...
-
-- I also worked for fall detection with 3D point cloud with LSTM and RNN structures!
-- The most difficult part in radar projects is always getting large amount of dataset😇
+I also tried fall detection on the same 3D point clouds with RNN and LSTM models. The hardest part of every radar project was the same: collecting enough data. 😇

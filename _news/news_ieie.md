@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I awarded **Grand Prize (1st place)** for Outstanding Undergraduate Thesis at _IEIE Autumn Annual Conference 2022_ 🏆
+My undergraduate thesis won the **Grand Prize (1st place)** at the IEIE Autumn Annual Conference 2022. 🏆

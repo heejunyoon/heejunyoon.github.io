@@ -6,91 +6,66 @@
     - name: Languages
       value: English, Korean
     - name: E-mail
-      value: mailto:heejunyoon@kist.re.kr | mailto:hjyoon9808@gmail.com
+      value: mailto:hjyoon9808@gmail.com
     - name: Research Interest
-      value: AI-Driven conservation | AI for social good
+      value: AI for climate and biodiversity | AI for social good
 
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. student
+      institution: Mila and HEC Montréal, Montréal, Canada
+      year: "Aug 2026 - now"
+      description:
+        - "Advisors: Prof. Tegan Maharaj and Prof. Olivier Bahn"
+        - "Funding: Canada Impact+ Research Training Award (CIRTA)"
+
     - title: M.S. in Electronics and Electrical Engineering
       institution: Ewha Womans University, Seoul, Korea
       year: "Aug 2024"
       description:
-        - Advisor: Prof. Jeongtae Kim
-        - GPA: 4.0/4.0 (4.3/4.3)
-        - Thesis title: A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates
-          contents: Developed lightweight twin network-based IC-substrates defect detection system that is robust to mis-registration and characteristic difference
+        - "Advisor: Prof. Jeongtae Kim"
+        - "GPA: 4.0/4.0 (4.3/4.3)"
+        - title: "Thesis: A Combined Twin and Single Network for Fast and Robust Inspection of IC Substrates"
+          contents:
+            - A lightweight twin network for IC substrate defect detection that stays accurate under mis-registration and characteristic differences
 
     - title: B.S. in Electronics and Electrical Engineering
       institution: Ewha Womans University, Seoul, Korea
       year: "Feb 2023"
       description:
-        - Minor: Mathematics
-        - Major & Minor GPA: 3.79/4.0 (3.90/4.3)
+        - "Minor: Mathematics"
+        - "Major & Minor GPA: 3.79/4.0 (3.90/4.3)"
+        - Graduated magna cum laude
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post-Master Researcher
+      institution: Korea Institute of Science and Technology (KIST), Seoul, Korea
+      year: "2025 - 2026"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Multi-view vision-language models with 3D position embeddings for spatial reasoning
+        - Hierarchical LLM + VLM agents for long-horizon tasks in OmniGibson
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2026
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Canada Impact+ Research Training Award (CAD 40,000 through 2029)
+    - year: 2023
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Magna cum laude, Ewha Womans University
+    - year: 2022
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Grand Prize (1st place), Outstanding Undergraduate Thesis, IEIE Autumn Annual Conference
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
+        - Kwanjeong Scholarship ($16,000 over 4 semesters)
+    - year: 2020
+      items:
+        - Gold Medal, AI-JAM Korea 2020
 
 - title: Other Interests
   type: list

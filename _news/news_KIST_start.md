@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m happy to start my research at the **Korea Institute of Science and Technology (KIST)**! 🚀 As part of this role, I’ll be working on AI-driven Multiview Vision-Language Models, focusing on better enhance scene understanding. 
+I joined the [Korea Institute of Science and Technology (KIST)](https://www.kist.re.kr/eng/index.do) as a researcher. I'll be working on multi-view vision-language models for 3D scene understanding.

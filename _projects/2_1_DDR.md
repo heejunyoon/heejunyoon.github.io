@@ -8,41 +8,23 @@ category: fun
 
 ## Overview
 
-This project focused on building a custom **Dance Dance Revolution (DDR)** pad using **Arduino Leonardo**. The pad is designed to function as a controller for DDR gameplay by simulating keyboard inputs.
+I built a **Dance Dance Revolution (DDR)** pad with an **Arduino Leonardo**. The pad acts as a keyboard, so it works as a controller for DDR games on a computer.
 
-This project originally drew inspiration from the _DIY Dance Dance Revolution tutorial_ by Mel Huang, detailed in [the Medium article](https://medium.com/@melhuang_/building-a-diy-dance-dance-revolution-e136265bbbfc).
+The idea came from Mel Huang's DIY DDR tutorial on [Medium](https://medium.com/@melhuang_/building-a-diy-dance-dance-revolution-e136265bbbfc).
 
-## Key Contributions
+## How I built it
 
-- **Hardware Design**:
-  - Built the DDR pad structure using MDF boards, copper tape, and aluminum bars.
-  - Integrated sensors for directional inputs (up, down, left, right) and connected them to the Arduino Leonardo.
-- **Programming**:
-
-  - Wrote custom Arduino code to simulate keyboard input based on sensor readings.
-  - Utilized the **Keyboard.h** library to map DDR pad inputs to corresponding keyboard keys.
-
-- **Testing and Debugging**:
-  - Verified functionality through various gameplay scenarios and refined input responsiveness.
-
-## Tools and Technologies
-
-- **Arduino Leonardo**: Used for its ability to act as a keyboard.
-- **C++**: For programming the microcontroller.
-- **MDF Board, Copper Tape, Aluminum Bars**: For constructing the DDR pad.
+- The pad is MDF board with copper tape and aluminum bars. Each arrow (up, down, left, right) is a sensor wired to the Arduino Leonardo.
+- The Leonardo can act as a USB keyboard, so the code reads the sensors and sends key presses with the `Keyboard.h` library.
+- I played a lot of songs on it to test it and tuned the input until it felt responsive.
 
 ## Results
 
-- Developed two functional DDR pads designed for a two-player versus game mode.
-- Showcased the project in the Engineering Building during Fall 2019, where professors and students enthusiastically participated and enjoyed playing during breaks🪩🕺.
+I made two pads so two people could play against each other. In fall 2019 we set them up in the Engineering Building, and professors and students played on them between classes. 🪩🕺
 
-## Final Thoughts
+## Demo
 
-The project highlights a blend of hardware engineering and programming to create an interactive gaming experience. It was a hands-on exploration of integrating physical computing with game design.
-
-## Additional Resources
-
--- **Demo Video**
+**Videos**
 <video width="640" height="360" controls>
 
   <source src="/assets/video/ddr_test.mp4" type="video/mp4">
@@ -53,8 +35,9 @@ The project highlights a blend of hardware engineering and programming to create
   Your browser does not support the video tag.
 </video>
 
--- **presentation**
-You can view the documentation below or [download the PDF](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf).
+**Presentation**
+
+You can read the slides below or [download the PDF](https://github.com/heejunyoon/heejunyoon.github.io/blob/main/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf).
 
 <iframe src="/assets/pdf/Making%20DDR%20%20HEEJUN%20YOON.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:

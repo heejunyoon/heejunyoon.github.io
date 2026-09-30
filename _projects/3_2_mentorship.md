@@ -1,37 +1,35 @@
 ---
 layout: page
-title: The Transformative Power of Mentorship and Teaching
-description: "A journey of growth through teaching, mentoring, and leadership"
+title: Teaching and Mentoring
+description: "What I learned as a TA, a club president, and a mentor"
 img: /assets/img/thumb_homecoming.gif
 importance: 2
 category: community
 ---
 
-## Reflections on Sharing Knowledge
+Some of the most useful parts of my time at university happened outside my own coursework: teaching, mentoring, and running a club. I learned about as much from the people I taught as they did from me.
 
-Looking back, my academic journey has been deeply enriched by the opportunities to **share knowledge**—both as a **mentor** and a **learner**. It wasn’t just about helping others understand concepts; it was about learning alongside them and growing together.
+## Teaching assistant
 
-## As a Teaching Assistant...
+### Digital Signal Processing and Laboratory
 
-### Guiding in Digital Signal Processing
+The first time I walked in as a **teaching assistant** for Digital Signal Processing and Laboratory, I was excited and nervous. I was comfortable with MATLAB by then, but I didn't know how to help other people get comfortable with it. Over the semester I helped students with their **image restoration projects**: planning them, debugging MATLAB code, and working through the math.
 
-I still remember the first time I stepped into my role as a **teaching assistant** for the **Digital Signal Processing and Laboratory** course. I was excited, but also nervous. MATLAB was second nature to me by then, but how would I help others grasp it? As the semester progressed, I found joy in guiding students through their **image restoration projects**.
+I liked watching students go from being stuck on an unfamiliar algorithm to implementing denoising methods on their own. The hours of preparation felt worth it.
 
-It was fascinating to watch them move from struggling with unfamiliar algorithms to confidently implementing **denoising techniques**. I wasn’t just answering their MATLAB and math questions—I was helping them plan and execute their projects. The satisfaction of seeing them succeed made all those hours of preparation and troubleshooting worth it.
+### Calculus
 
-### Calculus: A Different Challenge
-
-**Calculus** was a different beast. Over **four semesters**, I delivered **extra lectures**—10 per semester—and helped students tackle problem sets. Teaching abstract mathematical concepts to a room full of varied learning styles was challenging. Yet, every time a student had that "aha" moment, it reminded me why I loved teaching.
+Calculus was harder to teach. For **four semesters** I gave 10 extra lectures per semester and helped students with problem sets. Explaining abstract ideas to a room of people who learn in different ways was a challenge, and it was always satisfying when something finally clicked for someone.
 
 ---
 
-## As a President of the Scientific Research Club - Ewha Electrical Innovation
+## President of Ewha Electrical Innovation, a research club
 
-Being the **president of our scientific research club** was another chapter in this journey. Our club focused on **robotics**, **deep learning**, and **programming**—all topics close to my heart. Organizing project schedules, providing feedback, and resolving technical challenges became part of my routine.
+As **president of our research club**, I managed project schedules, gave feedback, and helped members get unstuck on technical problems. The club worked on robotics, deep learning, and programming.
 
-I also enjoyed designing and delivering lectures. **Machine learning**, **Arduino coding**, and even something as specific as **Bluetooth communication** became topics I couldn’t wait to teach. Summers and falls were particularly vibrant, filled with **exhibitions** and collaborative projects. The energy in the club was infectious, and I was proud to be at the helm.
+I also prepared and gave lectures on machine learning, Arduino programming, and Bluetooth communication. Summer and fall were the busiest seasons, with exhibitions and joint projects.
 
-While I was disappointed that I didn't get to see many members face-to-face because I was chairman during the pandemic, I was able to learn a lot from my amazing executive team and organizing several virtual activities.
+I was president during the pandemic, so I didn't get to meet many members in person, which I regret. I learned a lot from our executive team, though, and we ran several activities online.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -47,24 +45,16 @@ While I was disappointed that I didn't get to see many members face-to-face beca
 
 ---
 
-## As a Mentor in the Major... : A Journey of Mutual Growth
+## Mentoring in my major
 
-Mentorship was perhaps the most rewarding role of all. For **two years**, I worked closely with **freshmen and sophomores**, guiding them through the early, often overwhelming, years of university life. We discussed **study strategies**, project management, and even personal challenges.
+For **two years** I mentored first- and second-year students. We talked about how to study, how to manage projects, and sometimes about personal difficulties.
 
-As the **head mentor**, I had the privilege of designing programs to track progress and ensure effective **mentor-mentee dynamics**. These weren’t one-sided relationships; I often learned as much from my mentees as they did from me. One calculus session stands out vividly—when a student proposed an alternative solution to a problem, it opened my eyes to new teaching methods. Moments like these reminded me that teaching is as much about listening as it is about explaining.
-
----
-
-## Lessons That Last a Lifetime
-
-Through all these experiences, one thing became clear: **sharing knowledge is a two-way street**. Whether in a classroom, a club meeting, or a quiet one-on-one mentoring session, I found that every interaction offered a chance to learn something new.
-
-These roles taught me adaptability. I learned to tailor my explanations to different learning styles and ensure that everyone could grasp the material at their own pace. More importantly, I realized the value of **collective growth**—that the best learning environments are those where everyone feels empowered to contribute and thrive.
+As **head mentor**, I designed a program to track progress and check that mentor-mentee pairs were working well. The learning went both ways. In one calculus session, a student solved a problem in a way I hadn't thought of, and it changed how I explained that topic afterward. Teaching turned out to be as much about listening as about explaining.
 
 ---
 
-## Looking Ahead
+## What stayed with me
 
-These experiences have shaped my outlook on life and work. As I move forward, I’m committed to applying this ethos to my research and professional endeavors. Whether I’m developing tools for **environmental monitoring** or mentoring the next generation of researchers, I’ll carry with me the lessons learned from teaching and leading.
+I learned to adjust how I explain things to the person in front of me and to let people learn at their own pace. I also learned that a group learns best when everyone feels free to speak up, including the people who are supposed to be learning.
 
-Technology, when guided by **empathy** and a commitment to **social good**, can drive meaningful change. I’m eager to continue this journey, leveraging my skills and experiences to make a lasting, positive impact.
+I want to keep doing this as a researcher: mentoring students, and working on problems like environmental monitoring where the results matter to people outside the lab.

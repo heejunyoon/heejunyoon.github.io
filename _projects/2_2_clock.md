@@ -9,32 +9,21 @@ category: fun
 
 ## Overview
 
-This project was developed as part of the **2020 Club Exhibition Project**. It involved designing and constructing a custom **clock featuring LED animations**, combining both hardware and software elements.
+I made an **LED clock with animations** for our club's 2020 exhibition. It is based on the [RGB HexMatrix IoT Clock](https://www.instructables.com/RGB-HexMatrix-IOT-Clock/) project on Instructables.
 
-This project was based on the [instructables project](https://www.instructables.com/RGB-HexMatrix-IOT-Clock/)
+## How I built it
 
-## Key Contributions
-
-- **Hardware Design**:
-
-  - Used **WeMos D1 mini Pro** and **WS2812 LED strip** to create dynamic LED animations.
-  - Built a 3D-printed clock frame using **Fusion 360** for modeling and design.
-
-- **Software Development**:
-  - Programmed the clock functionality and LED animations using **Arduino**.
-
-## Tools and Technologies
-
-- **Arduino**: For programming the microcontroller and controlling the LED animations.
-- **Fusion 360**: For 3D modeling and printing the clock frame.
+- A **WeMos D1 mini Pro** drives a **WS2812 LED strip**.
+- I modeled the frame in **Fusion 360** and 3D printed it.
+- The clock and the LED animations are programmed in Arduino.
 
 ## Results
 
-- Successfully showcased the project at the **2020 Club Exhibition**, demonstrating interactive LED animations synchronized with the clock’s timekeeping functionality.
+The clock was shown at the 2020 club exhibition, keeping time and playing animations.
 
-## Additionally...
+## Behind the scenes
 
-- Memories of never-ending soldering...
+There was a lot of soldering.
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/proj/DDR_while2.jpg" title="while image" class="img-fluid rounded z-depth-1" %}
@@ -70,7 +59,7 @@ This project was based on the [instructables project](https://www.instructables.
     I started all over again, and finally it worked 😇
 </div>
 
-- You can check demo video:
+Demo video:
 <video width="640" height="360" controls>
   <source src="/assets/video/clock_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.

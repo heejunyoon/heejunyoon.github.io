@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AI-JAM Korea 2020: NLP-Based YouTube Comment Analysis"
-description: Awarded Gold Medal for developing an NLP model to cluster real-world YouTube comments
+description: Gold Medal for an NLP model that clusters real YouTube comments
 img: assets/img/proj/AIJAM_3.png
 importance: 6
 category: fun
@@ -10,35 +10,22 @@ date: 2020-08-01
 
 ## Overview
 
-This project was part of the **AI-JAM Korea 2020 Competition**, where we developed a system to analyze and cluster YouTube comments using **Natural Language Processing (NLP)** techniques. Our team won the **Gold Medal** for this project.
+At **AI-JAM Korea 2020**, our team built a system that clusters YouTube comments with natural language processing. We won the **Gold Medal**.
 
-## Key Contributions
+## What we did
 
-- **Data Collection**:
-  - Leveraged **Python** for web scraping to gather real-world comment data from **YouTube**.
-- **NLP Model Development**:
+- Scraped real comments from YouTube with Python.
+- Tokenized the Korean text with KoNLPy, embedded it with FastText, and trained clustering models in TensorFlow.
 
-  - Applied **tokenization**, **embedding techniques (FastText)**, and other NLP methods to build clustering models.
-  - Used **TensorFlow** for model training and **Konlpy** for processing Korean text.
+I worked on the overall algorithm, wrote the scraper and the tokenization, and gave the final presentation.
 
-- **Team Role**:
-  - Played a pivotal role in constructing the overall algorithm.
-  - Focused on key project components such as web scraping, tokenization, and delivering the final presentation.
+## Code
 
-## Tools and Technologies
-
-- **Python**: For web scraping and algorithm development.
-- **TensorFlow**: For training the clustering models.
-- **Konlpy**: For Korean language processing.
-- **FastText**: For word embeddings.
-
-## GitHub Repository
-
-The complete project and its codebase are available on <a href="https://github.com/ottlseo/AI-JAM_KOREA_2020" target="_blank"><i class="fab fa-github"></i> **GitHub**</a>.
+The code is on <a href="https://github.com/ottlseo/AI-JAM_KOREA_2020" target="_blank"><i class="fab fa-github"></i> **GitHub**</a>.
 
 ## Results
 
-- **Gold Medal**: Awarded in the **AI-JAM Korea 2020 Competition** for outstanding project execution and innovation in NLP-based YouTube comment analysis.
+Gold Medal at AI-JAM Korea 2020.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,7 +33,7 @@ The complete project and its codebase are available on <a href="https://github.c
     </div>
 </div>
 <div class="caption">
-    The result of embedding the nouns in a sentence into a 300-dimensional vector
+    Nouns from each comment embedded as 300-dimensional vectors
 </div>
 
 <div class="row">
@@ -55,5 +42,5 @@ The complete project and its codebase are available on <a href="https://github.c
     </div>
 </div>
 <div class="caption">
-    Final result with dimensionality reduction using TSNE and visualization using Bokeh module
+    Final clusters, reduced with t-SNE and plotted with Bokeh
 </div>

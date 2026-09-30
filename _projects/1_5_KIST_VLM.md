@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Robust 3D Scene Understanding for Multi-View VLMs"
-description: "Enhancing Vision-Language Models (VLMs) with 3D position embeddings to improve spatial reasoning in multi-view scenes."
+description: "Adding 3D position embeddings to a VLM so it can reason about space across multiple views (KIST)."
 date: 2025-06-30
 category: research
 importance: 2
@@ -11,25 +11,19 @@ related_publications: true
 
 ## Overview
 
-Standard Vision-Language Models (VLMs) struggle to understand 3D spatial relationships (e.g., "behind," "under") when presented with multiple 2D images. This project, which serves as a foundation for my current embodied AI research, successfully developed a method to **inject 3D geometric information** into a 2D VLM (NVILA-based). This enhancement allows the VLM to build a robust **3D spatial awareness** from multi-view inputs.
+Standard vision-language models (VLMs) have trouble with 3D relations like "behind" or "under" when they see several 2D images of the same scene. In this KIST project, I added **3D geometric information** to a 2D VLM based on NVILA so it could reason about space across multiple views. The model later became the perception module of my [embodied AI project](/projects/1_6_KIST_VLA/).
 
-## Objectives (Key Questions)
+## Questions
 
-- **To achieve 3D spatial awareness from 2D images**: How can a VLM understand that image patches from separate views (e.g., front, left, right) belong to the same continuous 3D space?
-- **To integrate geometric data efficiently**: How can we inject 3D geometric information (from LiDAR/point clouds) into a pre-trained VLM **without costly full-scale retraining**?
+- How can a VLM tell that image patches from different views (front, left, right) belong to the same 3D space?
+- Can we add 3D information from LiDAR or point clouds to a pretrained VLM without retraining the whole model?
 
-## Core Methodology
+## Method
 
-- **1. Data Pipeline Development:**
-    - Created an automated sampling pipeline to generate structured, multi-view (8-image) training samples from point-cloud-based datasets (e.g., ScanNet).
-- **2. 3D Position Embedding:**
-    - Derived 3D coordinates from point clouds corresponding to each 2D image patch.
-    - Projected these coordinates into a high-dimensional `3D Position Embedding` vector.
-- **3. Geometric-Visual Fusion:**
-    - Fused geometric awareness by **summing** the new `3D Position Embedding` with the existing `2D Position Embedding` of the ViT tokens.
-- **4. Efficient Fine-Tuning:**
-    - Froze the entire pre-trained VLM (ViT and LLM) and **fine-tuned only the projection head** to efficiently learn this new, spatially-aware representation.
-
+1. **Data pipeline.** I wrote a sampling pipeline that builds multi-view training samples (8 images each) from point-cloud datasets such as ScanNet.
+2. **3D position embedding.** For each 2D image patch, I took the matching 3D coordinates from the point cloud and projected them into a `3D Position Embedding` vector.
+3. **Fusion.** I added the 3D position embedding to the existing 2D position embedding of the ViT tokens.
+4. **Fine-tuning.** I froze the pretrained VLM (ViT and LLM) and trained only the projection head.
 
 <div class="row justify-content-center">
   <div class="col-auto">
@@ -40,13 +34,12 @@ Standard Vision-Language Models (VLMs) struggle to understand 3D spatial relatio
   </div>
 </div>
 <div class="caption">
-  Left: The proposed model architecture, injecting 3D Position Embeddings. Right: Benchmark results on ScanQA and MuirBench.
+  Left: the model architecture with 3D position embeddings. Right: results on ScanQA and MuirBench.
 </div>
-
 
 ## Results
 
-The proposed method significantly outperformed strong baselines on 3D spatial reasoning benchmarks:
+The model beat strong baselines on two 3D spatial reasoning benchmarks:
 
-- **ScanQA:** Achieved **44.78% Refined EM@1** (outperforming Gemini 2.5 Pro at 40.86%).
-- **MuirBench:** Achieved **64.52% Accuracy** (outperforming Gemini 2.5 Pro at 59.14%).
+- **ScanQA:** 44.78% Refined EM@1 (Gemini 2.5 Pro: 40.86%)
+- **MuirBench:** 64.52% accuracy (Gemini 2.5 Pro: 59.14%)

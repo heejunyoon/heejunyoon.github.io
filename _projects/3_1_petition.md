@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Advocating for Systemic Reform: Honoring Fire Captain Kang"
-description: "A campaign to honor Captain Kang and advocate for systemic changes in firefighter safety and recognition"
+title: "Campaign for Fire Captain Kang and Firefighter Safety"
+description: "A student campaign to honor Captain Kang Yeon-hee and push for national firefighting services"
 img: assets/img/proj/petition5_stk.jpg
 importance: 2
 category: community
@@ -10,54 +10,54 @@ date: 2019-05-01
 
 ## Overview
 
-In 2019, I encountered an article about **Fire Captain Kang Yeon-hee**, whose tragic death highlighted systemic failures in recognizing the sacrifices of Korean firefighters. Captain Kang, a member of the **Inhwa 119 Safety Center in Iksan**, suffered a brain hemorrhage after being assaulted while transporting an intoxicated individual. Despite the clear link between her work and her fatal injury, the **Ministry of Personnel Management** denied her designation as having died in the line of duty, citing a lack of direct evidence. This decision exposed the inadequate institutional support for firefighters facing hazardous conditions.
+In 2019 I read about **Fire Captain Kang Yeon-hee** of the Inhwa 119 Safety Center in Iksan. While she was transporting an intoxicated man, he assaulted her, and she later died of a brain hemorrhage. The Ministry of Personnel Management refused to recognize her death as a line-of-duty death, saying there was no direct evidence linking the assault to it. That decision made me angry, and it showed how little institutional support Korean firefighters had.
 
-Moved by this injustice, I initiated a campaign with my team to honor Captain Kang and advocate for systemic reforms to better protect firefighters. Our campaign had three key components:
-
----
-
-## 1. Interviews with Active Firefighters
-
-We sought firsthand accounts from firefighters, including Captain Kang’s direct superior, **Firefighter Jeong Eun-ae**. These interviews revealed:
-
-- **Harsh realities** of firefighting, such as insufficient safety measures and the psychological toll of repeated trauma.
-- **Institutional challenges**, including limited resources and inadequate training for high-risk situations.
-- **Lack of representation** in decision-making processes, such as the government body determining line-of-duty deaths having no members with firefighting experience.
-
-This disconnect underscored the need for systemic reform to ensure firefighters’ experiences and risks were adequately considered.
+With my team, I started a campaign to honor Captain Kang and push for better protection for firefighters. It had three parts.
 
 ---
 
-## 2. Petition for Legislative Reform
+## 1. Interviews with firefighters
 
-We launched a petition titled, "**Demand for Accountability: Support Nationalization of Firefighting Services to Ensure Public Safety**." The petition aimed to pressure lawmakers to revisit the stalled legislation for nationalizing firefighting services.
+We interviewed active firefighters, including Captain Kang's direct superior, **Firefighter Jeong Eun-ae**. They told us about:
 
-At the time, firefighting in Korea was managed at the **provincial level**, leading to disparities in funding and working conditions. Nationalization promised a unified system with better resources, training, and protections for all firefighters.
+- missing safety measures, and the psychological toll of seeing trauma again and again
+- limited resources, and too little training for high-risk calls
+- the government body that decides line-of-duty deaths, which had no members with firefighting experience
 
-- In just **five days**, we collected over **600 signatures**.
-- We compiled the petition into a formal report and delivered it to **Representative Kwon Eun-hee**, urging her to advocate for the bill.
-
----
-
-## 3. Awareness and Advocacy on Campus
-
-To expand our campaign’s reach, we organized awareness activities at our university:
-
-- **Educational Materials**: Distributed infographics and stickers highlighting the risks firefighters face and the importance of systemic reform.
-- **Seminar with Firefighter Jeong Eun-ae**: Her stories about the challenges of her profession moved many attendees, fostering deeper understanding and support.
-- **Campus Booths**: Engaged students in discussions, distributed advocacy materials, and encouraged them to sign the petition.
+The people deciding these cases didn't know the job. That convinced us the system had to change.
 
 ---
 
-## Impact and Reflection
+## 2. Petition for legislative reform
 
-Our campaign gained significant attention, being featured in national news outlets such as **FPN 119** and **The Dong-A Ilbo**. On **November 19, 2019**, we celebrated a historic victory as the legislation for nationalizing firefighting services passed after **47 years**, marking a pivotal step toward improving firefighter safety and working conditions in Korea.
+We started a petition titled "**Demand for Accountability: Support Nationalization of Firefighting Services to Ensure Public Safety**." A bill to nationalize firefighting services had been stuck in the National Assembly, and we wanted lawmakers to move it forward.
 
-### Personal Growth
+At the time, provinces ran their own fire services, so funding and working conditions varied a lot from region to region. Nationalization would put every firefighter under one system with the same resources, training, and protections.
 
-This experience profoundly shaped my understanding of the power of **collective action** and **systemic change**. I learned the importance of amplifying marginalized voices and working collaboratively to address structural inequities.
+- We collected more than **600 signatures in five days**.
+- We turned the petition into a report and delivered it to **Representative Kwon Eun-hee**, asking her to support the bill.
 
-As a researcher, this campaign reinforced my belief in leveraging technology for social good. Whether developing **AI solutions for environmental monitoring** or creating tools to enhance disaster response, I aim to contribute to a more just and sustainable world. This campaign exemplified how technology, guided by empathy and a commitment to social good, can drive meaningful change.
+---
+
+## 3. Awareness on campus
+
+We also ran activities at our university:
+
+- We handed out infographics and stickers about the risks firefighters face and why reform mattered.
+- We held a seminar with Firefighter Jeong Eun-ae. Many people in the room were moved by her stories.
+- We ran booths where we talked with students and asked them to sign the petition.
+
+---
+
+## What happened next
+
+Our campaign was covered by **FPN 119** and **The Dong-A Ilbo**. On **November 19, 2019**, the bill to nationalize firefighting services finally passed after 47 years.
+
+### What I took from it
+
+I learned that a small group of students can move an issue forward if they keep at it and work together. I also learned to listen first: the firefighters knew the problems far better than we did, and our job was to make sure more people heard them.
+
+That's part of why I want my research to be useful outside the lab. I'd like to build AI that helps with problems like environmental monitoring and disaster response.
 
 ## Photos
 

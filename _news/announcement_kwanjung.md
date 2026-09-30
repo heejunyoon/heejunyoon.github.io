@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I awarded the **Kwanjung Scholarship**! Kwanjeong Educational Foundation will support me _$16,000_ for 4 semesters.
+I received the **Kwanjeong Scholarship**. The Kwanjeong Educational Foundation will support me with $16,000 over 4 semesters.
