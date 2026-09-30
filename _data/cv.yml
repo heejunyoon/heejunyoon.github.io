@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Korean
     - name: E-mail
-      value: mailto:hjyoon9808@gmail.com
+      value: mailto:heejun.yoon@mila.quebec | mailto:heejun.yoon@hec.ca
     - name: Research Interest
       value: AI for climate and biodiversity | AI for social good
 
@@ -46,7 +46,7 @@
       year: "2025 - 2026"
       description:
         - Multi-view vision-language models with 3D position embeddings for spatial reasoning
-        - Hierarchical LLM + VLM agents for long-horizon tasks in OmniGibson
+        - Making vision-language-action models follow long instructions in OmniGibson (data generation, task splitting, planning)
 
 - title: Honors and Awards
   type: time_table

@@ -29,12 +29,9 @@ Standard vision-language models (VLMs) have trouble with 3D relations like "behi
   <div class="col-auto">
     {% include figure.liquid path="assets/img/proj/KIST_VLM.png" title="Model Architecture" class="img-fluid" %}
   </div>
-  <div class="col-auto">
-    {% include figure.liquid path="assets/img/proj/KIST_VLM_results.png" title="Benchmark Results" class="img-fluid" %}
-  </div>
 </div>
 <div class="caption">
-  Left: the model architecture with 3D position embeddings. Right: results on ScanQA and MuirBench.
+  The model architecture with 3D position embeddings.
 </div>
 
 ## Results

@@ -9,7 +9,7 @@ category: fun
 
 ## Overview
 
-I made an **LED clock with animations** for our club's 2020 exhibition. It is based on the [RGB HexMatrix IoT Clock](https://www.instructables.com/RGB-HexMatrix-IOT-Clock/) project on Instructables.
+I made an **LED clock with animations** for our club's 2020 exhibition. It is based on the RGB HexMatrix IoT Clock project on Instructables.
 
 ## How I built it
 

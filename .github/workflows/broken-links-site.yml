@@ -29,6 +29,9 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
+      - name: Install ImageMagick 🖼️
+        # needed by jekyll-imagemagick to generate the responsive .webp images
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
@@ -42,5 +45,5 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          # only check local links; _site/blog holds the al-folio sample posts (blog is hidden from the menu)
+          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --exclude-path '_site/blog' --verbose --no-progress '_site/**/*.html'

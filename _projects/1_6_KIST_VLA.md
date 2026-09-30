@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LLM-Driven Embodied AI for Task Planning and Navigation"
-description: "A hierarchical LLM + VLM agent for long, multi-step tasks in simulated homes (KIST)."
+description: "Why vision-language-action models lose track of long instructions, and a lightweight way to make them listen (KIST)."
 date: 2025-07-01
 category: research
 importance: 1
@@ -11,30 +11,32 @@ related_publications: false
 
 ## Overview
 
-This was my main project at KIST. The goal was to let an embodied agent in the **OmniGibson** simulator carry out long, multi-step requests such as "Tidy the house and take out the trash." We built a hierarchical framework: an LLM plans at a high level, and a spatially aware VLM agent perceives the scene and acts.
+At KIST I worked on embodied agents in the **OmniGibson** simulator that carry out long, multi-step requests such as "Tidy the house and take out the trash." We started from the hierarchical framework in the figure below. I only built part of it, and I never used the RL component. Most of my time went into one problem that showed up early: the vision-language-action (VLA) model stopped following instructions once tasks got long.
 
-## Questions
-
-- How can an agent move efficiently through several rooms to finish a request that takes many steps?
-- How can the system build a spatial map of the house from what it sees, and use that map to plan?
-- How can an LLM planner break a vague command into sub-goals the agent can actually carry out?
-
-## Method
 <div class="row justify-content-center">
   <div class="col-auto">
     {% include figure.liquid path="assets/img/proj/KIST_VLA.png" title="Hierarchical Framework Diagram" class="img-fluid" %}
   </div>
 </div>
 <div class="caption">
-  The hierarchical framework. The LLM planner (top) gives sub-goals, the spatial memory (left) stores a topological map, and the spatially aware agent (right) perceives and acts.
+  The full framework we planned: an LLM planner gives sub-goals, a spatial memory stores a topological map, and a spatially aware agent perceives and acts. I worked on part of it; the RL policy was never used.
 </div>
 
-The framework has three parts that run in a loop:
+## What went wrong
 
-1. **High-level planner (LLM).** It turns the user's request into a sequence of sub-goals, for example `GOTO Bedroom`, `FIND Clothes`, `PLACE Clothes`.
-2. **Spatial memory (topological graph).** Nodes are waypoints stored with their visual embeddings, and edges are paths the agent can travel. The LLM uses the graph to map a goal like "kitchen" to a specific node.
-3. **Low-level policy (VLM + RL).** Our spatially aware VLM from the [earlier project](/projects/1_5_KIST_VLM/) handles perception. An RL policy runs motor actions such as `move` and `grasp`. The agent reports `Success` or `Failure` back to the LLM, which re-plans when needed.
+Two failure modes kept coming up when I ran the VLA model on long tasks:
+
+- **It lost the plot.** Once a task ran for many steps, the model had no idea what to do next.
+- **It ignored the instruction.** The model had memorized the training scenes. It did what it had seen in that scene before, whatever the instruction actually asked.
+
+## What I did about it
+
+Fully fine-tuning the VLA model was too expensive to be realistic, so I aimed for the smallest change that would make the model pay attention to the instruction. Most of the work was on the data side:
+
+- I generated new training data where the same scene comes with different instructions, so the model can't get by on memorizing the scene.
+- I split long tasks into shorter segments, each tied to its own sub-instruction.
+- I brought in ideas from task planning, so a long request is decomposed into steps before the policy runs, instead of asking the policy to handle the whole thing in one go.
 
 ## Status
 
-While I was at KIST, we were implementing the topological graph memory and connecting the LLM planner to the VLM policy inside OmniGibson.
+The project was not published. What I took away from it is that long-horizon failures in these models often come from the data: if the scene alone predicts the action, the model has no reason to read the instruction.

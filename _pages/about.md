@@ -41,10 +41,10 @@ I'd like the tools I build to be useful to the scientists and policymakers who m
 
 ### How I got here
 
-I started with 1D **radar signals** as an undergrad, detecting human motion and vital signs. My master's work moved to 2D **machine vision**, where I built models that find tiny defects on semiconductor substrates. At KIST I worked on **3D scenes and embodied agents**: vision-language models that reason over multiple views, and LLM-based planners for agents in simulated homes.
+I started with 1D **radar signals** as an undergrad, detecting human motion and vital signs. My master's work moved to 2D **machine vision**, where I built models that find tiny defects on semiconductor substrates. At KIST I worked on **3D scenes and embodied agents**: vision-language models that reason over multiple views, and vision-language-action models that have to follow long instructions in simulated homes.
 
 Each step taught me something about noisy, real-world data. Now I want to point that experience at climate and biodiversity.
 
 ---
 
-If you'd like to talk about research or anything else, email me at [hjyoon9808@gmail.com](mailto:hjyoon9808@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/heejun-yoon/).
+If you'd like to talk about research or anything else, email me ([heejun.yoon@mila.quebec](mailto:heejun.yoon@mila.quebec) or [heejun.yoon@hec.ca](mailto:heejun.yoon@hec.ca)) or find me on [LinkedIn](https://www.linkedin.com/in/heejun-yoon/).
